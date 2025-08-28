@@ -1,0 +1,23 @@
+# Data files
+*.csv
+*.pkl
+*.h5
+*.hdf5
+Data/
+Plots/
+campaigns/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large output files
+*.log
+*.out
+*.json
