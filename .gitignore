@@ -21,3 +21,17 @@ __pycache__/
 *.log
 *.out
 *.json
+# Checkpoint files (large temporary files)
+*.npz
+dragon_geodesic_matrix_*
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Large data files
+*.npy
