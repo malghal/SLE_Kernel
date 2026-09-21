@@ -1,0 +1,6158 @@
+[
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 1.769565378766807e-05,
+    "test_rmse": 26.31930230477345,
+    "test_crps mean": 9.228636225821036,
+    "test_crps std": 17.335698168225075,
+    "test_picp": 0.946,
+    "final_log_likelihood": -2690.5292469522524,
+    "final_hyperparameters": [
+      14961.267022422282,
+      17.57223286885995,
+      0.34049637283562717,
+      0.0001050624049252491
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 2.9007128083982765e-07,
+    "test_rmse": 26.307792606064577,
+    "test_crps mean": 9.217054280773402,
+    "test_crps std": 17.40246534236208,
+    "test_picp": 0.942,
+    "final_log_likelihood": -2690.5858185557804,
+    "final_hyperparameters": [
+      14243.206589913869,
+      17.455157166750624,
+      7.349637928386619,
+      1.6980135963962084e-06
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 4.6024805095229984e-05,
+    "test_rmse": 26.317639108208073,
+    "test_crps mean": 9.229875158409865,
+    "test_crps std": 17.354771265590724,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2690.5179510444896,
+    "final_hyperparameters": [
+      14473.735982830112,
+      17.541656805163065,
+      14.344175518902148,
+      0.0002737486798105593
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 8.217808488236087e-06,
+    "test_rmse": 26.320317687947657,
+    "test_crps mean": 9.227838794295916,
+    "test_crps std": 17.380128800331008,
+    "test_picp": 0.944,
+    "final_log_likelihood": -2690.5185655769737,
+    "final_hyperparameters": [
+      14301.219124823343,
+      17.567174211132617,
+      21.345121423830463,
+      4.817173298032884e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.0001540529905381927,
+    "test_rmse": 26.318271953093266,
+    "test_crps mean": 9.230724380215007,
+    "test_crps std": 17.36352260654608,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2690.5335275793263,
+    "final_hyperparameters": [
+      14291.999752053001,
+      17.53975014215017,
+      28.244146500097564,
+      0.0009182839326218328
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 7.316409834580809e-05,
+    "test_rmse": 26.312255544702076,
+    "test_crps mean": 9.22568382138699,
+    "test_crps std": 17.348977927582432,
+    "test_picp": 0.946,
+    "final_log_likelihood": -2690.5455295989173,
+    "final_hyperparameters": [
+      14674.857712880766,
+      17.498401826934455,
+      35.5091191481676,
+      0.00043715632579921504
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.0001339994783336668,
+    "test_rmse": 26.335449897210545,
+    "test_crps mean": 9.261738776121154,
+    "test_crps std": 17.41029200960397,
+    "test_picp": 0.944,
+    "final_log_likelihood": -2690.814813400985,
+    "final_hyperparameters": [
+      12330.773380150378,
+      17.613779125674675,
+      39.98750482932331,
+      0.0008033695602840396
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 1.483537077901808e-05,
+    "test_rmse": 26.40007034167927,
+    "test_crps mean": 9.375351413167643,
+    "test_crps std": 17.55337080882236,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2694.487970682155,
+    "final_hyperparameters": [
+      8349.960983212397,
+      17.532873554101748,
+      39.97484636426363,
+      9.472056250725558e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.2490128330906529,
+    "test_rmse": 29.795915663008103,
+    "test_crps mean": 10.473175103886739,
+    "test_crps std": 20.62980677363667,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2732.0399326093993,
+    "final_hyperparameters": [
+      13006.801059207879,
+      52.77745467395867,
+      28.21384559010054,
+      1.4671498252749067
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.24425902620078463,
+    "test_rmse": 29.784232889083036,
+    "test_crps mean": 10.464985255422063,
+    "test_crps std": 20.611512515486098,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2732.0368714475467,
+    "final_hyperparameters": [
+      13230.942047295917,
+      52.49256049702437,
+      32.264396895806854,
+      1.4147445102371718
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.25040268207496774,
+    "test_rmse": 29.762717152421356,
+    "test_crps mean": 10.466066494045279,
+    "test_crps std": 20.59604867075027,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2732.030130788891,
+    "final_hyperparameters": [
+      12862.438073179685,
+      52.58844715699655,
+      35.26406541285973,
+      1.4946028418766226
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.2530948012284442,
+    "test_rmse": 29.794170903903836,
+    "test_crps mean": 10.466690098608037,
+    "test_crps std": 20.647460749717386,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2732.0294769135785,
+    "final_hyperparameters": [
+      12901.666158425738,
+      52.569130110136896,
+      39.02037158761909,
+      1.5059347598906192
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.2550941492518232,
+    "test_rmse": 29.662111761495893,
+    "test_crps mean": 10.457829867467787,
+    "test_crps std": 20.579395893589655,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2732.3825586233925,
+    "final_hyperparameters": [
+      11443.457580742717,
+      53.09394420422623,
+      39.93348317013772,
+      1.533140358958296
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.25372679956535305,
+    "test_rmse": 29.51517182011779,
+    "test_crps mean": 10.454810678578335,
+    "test_crps std": 20.513274046686693,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2733.8091799937174,
+    "final_hyperparameters": [
+      9876.814010671282,
+      53.79508513393222,
+      39.99005147236663,
+      1.510568910476588
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.24874676172112314,
+    "test_rmse": 29.416469377971335,
+    "test_crps mean": 10.481906118832994,
+    "test_crps std": 20.39973565729639,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2736.1153245633386,
+    "final_hyperparameters": [
+      9008.749789932801,
+      54.64023035860459,
+      39.94489770992177,
+      1.4870901198719166
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.25907748406846454,
+    "test_rmse": 29.3855023336645,
+    "test_crps mean": 10.518232355011536,
+    "test_crps std": 20.38597466053981,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2738.985684630314,
+    "final_hyperparameters": [
+      8094.991913612699,
+      55.336002504778925,
+      39.99917550245189,
+      1.6149148262642279
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.2602688722511558,
+    "test_rmse": 29.371526486436142,
+    "test_crps mean": 10.566292651305547,
+    "test_crps std": 20.344146148279556,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2742.3303569348777,
+    "final_hyperparameters": [
+      7547.282052060764,
+      56.19882369577377,
+      39.9965947595899,
+      1.6496125586474744
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.2546704042566411,
+    "test_rmse": 29.31705917374832,
+    "test_crps mean": 10.614812875847393,
+    "test_crps std": 20.250375415533647,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2746.3132774265036,
+    "final_hyperparameters": [
+      6762.107978527201,
+      56.528064931586655,
+      39.98026272277614,
+      1.6128081631109104
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.2621935743255562,
+    "test_rmse": 29.33698791592226,
+    "test_crps mean": 10.700767285195122,
+    "test_crps std": 20.178612893515236,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2751.3191623262915,
+    "final_hyperparameters": [
+      5994.820490404614,
+      56.538232918725186,
+      39.997856688043214,
+      1.7584389374165075
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.23306035526956714,
+    "test_rmse": 29.334188726527753,
+    "test_crps mean": 10.787097416491415,
+    "test_crps std": 20.055647929644373,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2757.389541787377,
+    "final_hyperparameters": [
+      5384.554067283636,
+      56.535718595953384,
+      39.99503470733713,
+      1.4509838968847566
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.24450537347532375,
+    "test_rmse": 29.49791027076477,
+    "test_crps mean": 10.942871921276911,
+    "test_crps std": 20.018612605861783,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2764.191509589806,
+    "final_hyperparameters": [
+      4962.201051907614,
+      56.538041754741116,
+      39.99666408625633,
+      1.6721173757635177
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.25581992309809354,
+    "test_rmse": 29.714547170365954,
+    "test_crps mean": 11.10103374922858,
+    "test_crps std": 20.089180531601517,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2771.873887268754,
+    "final_hyperparameters": [
+      4466.04868969071,
+      56.53505306873304,
+      39.9991838447951,
+      1.8556936255037524
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.23459291240232613,
+    "test_rmse": 29.919883624964392,
+    "test_crps mean": 11.27930361734283,
+    "test_crps std": 20.062534702520512,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2780.140573025505,
+    "final_hyperparameters": [
+      4216.961439842067,
+      56.53538557623202,
+      39.99753969913866,
+      1.671982841163938
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.2155709744629399,
+    "test_rmse": 30.181422504161148,
+    "test_crps mean": 11.482930741377045,
+    "test_crps std": 20.071548503094853,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2789.0822180893374,
+    "final_hyperparameters": [
+      4031.6638541899156,
+      56.536769050057515,
+      39.99451625538432,
+      1.5311701171614276
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 50.0,
+    "trial": 0,
+    "seed": 15796,
+    "train_rmse": 0.2162344406430906,
+    "test_rmse": 30.517905049214097,
+    "test_crps mean": 11.696090319382176,
+    "test_crps std": 20.21356463207656,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2798.3904658404513,
+    "final_hyperparameters": [
+      3768.9675720023806,
+      56.53750464778115,
+      39.998039544846506,
+      1.5972757218361289
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 9.443612639671857e-05,
+    "test_rmse": 30.522392317671887,
+    "test_crps mean": 10.516577601363272,
+    "test_crps std": 21.34231743482577,
+    "test_picp": 0.932,
+    "final_log_likelihood": -2639.001436289701,
+    "final_hyperparameters": [
+      17399.107488823007,
+      15.349163184647097,
+      0.396288080958076,
+      0.00037588123556986375
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 3.2465493370282717e-06,
+    "test_rmse": 30.5024107597513,
+    "test_crps mean": 10.509020743879272,
+    "test_crps std": 21.31882733496241,
+    "test_picp": 0.932,
+    "final_log_likelihood": -2639.004401473157,
+    "final_hyperparameters": [
+      17248.948744256864,
+      15.386714124269368,
+      8.602197233495131,
+      1.292065320779301e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 5.21024107335514e-06,
+    "test_rmse": 30.51610595255539,
+    "test_crps mean": 10.51462123555762,
+    "test_crps std": 21.334126118222077,
+    "test_picp": 0.932,
+    "final_log_likelihood": -2638.989816964006,
+    "final_hyperparameters": [
+      17257.52325095702,
+      15.347119363310352,
+      16.81294824093454,
+      2.074144974706371e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 4.517520221424711e-05,
+    "test_rmse": 30.51479071310682,
+    "test_crps mean": 10.515275044483896,
+    "test_crps std": 21.334481157813993,
+    "test_picp": 0.932,
+    "final_log_likelihood": -2639.00849050467,
+    "final_hyperparameters": [
+      17050.22435860004,
+      15.324070695280744,
+      24.900082232357565,
+      0.00018006129608316712
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 0.00018434419377788726,
+    "test_rmse": 30.50194103764367,
+    "test_crps mean": 10.511827036078495,
+    "test_crps std": 21.351217762493047,
+    "test_picp": 0.932,
+    "final_log_likelihood": -2639.0421381937854,
+    "final_hyperparameters": [
+      16848.937980204937,
+      15.362357750638358,
+      33.07594182008599,
+      0.0007272012955290563
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 4.034410173967015e-05,
+    "test_rmse": 30.436559415234118,
+    "test_crps mean": 10.491374552786125,
+    "test_crps std": 21.28076579072422,
+    "test_picp": 0.934,
+    "final_log_likelihood": -2639.0846504703563,
+    "final_hyperparameters": [
+      15654.612707225082,
+      15.374931237408932,
+      39.965263180997056,
+      0.00016021577674152354
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 0.00019756822708185431,
+    "test_rmse": 30.016252764115215,
+    "test_crps mean": 10.383020158528616,
+    "test_crps std": 21.00009507955019,
+    "test_picp": 0.94,
+    "final_log_likelihood": -2642.488953116323,
+    "final_hyperparameters": [
+      9891.870646962896,
+      15.505279519010374,
+      39.96895485491609,
+      0.0007951716562697442
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 1.1251215099454632e-05,
+    "test_rmse": 29.639517422494407,
+    "test_crps mean": 10.30659246156509,
+    "test_crps std": 20.74507617171997,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2650.2999050016583,
+    "final_hyperparameters": [
+      6980.563719012018,
+      15.707190668541646,
+      39.99618078936842,
+      4.7326267825553714e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 0.00044179019838965573,
+    "test_rmse": 29.32602781723172,
+    "test_crps mean": 10.257432197801384,
+    "test_crps std": 20.486493870650254,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2662.0364588836946,
+    "final_hyperparameters": [
+      5322.211420748034,
+      16.58472860018733,
+      39.985412713578924,
+      0.001976415587893854
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 8.405383260328232e-06,
+    "test_rmse": 32.45481138286458,
+    "test_crps mean": 11.950808638221243,
+    "test_crps std": 21.961990777387545,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2719.7544940857424,
+    "final_hyperparameters": [
+      12884.661602263513,
+      52.24674532577734,
+      31.94166427389707,
+      3.728801068447751e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 0.0002820644269487503,
+    "test_rmse": 32.47508560207956,
+    "test_crps mean": 11.955806698991859,
+    "test_crps std": 21.98776681119128,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2719.7874696615304,
+    "final_hyperparameters": [
+      13188.333382014767,
+      52.31031471800976,
+      35.738612421806124,
+      0.0012522735928772732
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 3.743237919698688e-05,
+    "test_rmse": 32.48916622823868,
+    "test_crps mean": 11.959374038023638,
+    "test_crps std": 22.020934566371636,
+    "test_picp": 0.946,
+    "final_log_likelihood": -2719.779581777461,
+    "final_hyperparameters": [
+      13339.254536854161,
+      52.34119415871077,
+      39.533505349502335,
+      0.0001637181089382267
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 4.177791914206072e-05,
+    "test_rmse": 32.40140661957245,
+    "test_crps mean": 11.960084977028076,
+    "test_crps std": 21.942332569066483,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2720.2222390047327,
+    "final_hyperparameters": [
+      11146.83120367222,
+      52.62271290871175,
+      39.97338375560916,
+      0.00018399236758792625
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 2.3277047371127977e-05,
+    "test_rmse": 32.35585996769727,
+    "test_crps mean": 11.984087329037177,
+    "test_crps std": 21.8777114962164,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2722.0058341807094,
+    "final_hyperparameters": [
+      9676.94654917519,
+      53.28196863637158,
+      39.98783280473033,
+      0.00010364679634555785
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 4.315943086244344e-05,
+    "test_rmse": 32.34495449560398,
+    "test_crps mean": 12.021774074213809,
+    "test_crps std": 21.825401009183164,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2724.9635332828357,
+    "final_hyperparameters": [
+      8746.179425416281,
+      54.114192492046996,
+      39.99680917877508,
+      0.0001952578211321665
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 0.00011302626802566942,
+    "test_rmse": 32.30127009403001,
+    "test_crps mean": 12.047433793247466,
+    "test_crps std": 21.807432223335653,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2728.817103899786,
+    "final_hyperparameters": [
+      7682.89501702023,
+      54.69719763168361,
+      39.99191828693076,
+      0.0005119063081240327
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 0.0001799302829305923,
+    "test_rmse": 32.2586802647585,
+    "test_crps mean": 12.076437324866168,
+    "test_crps std": 21.716738018322502,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2733.402331938272,
+    "final_hyperparameters": [
+      7027.676400153607,
+      55.248411718070464,
+      39.989159253804516,
+      0.0008413804447959805
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 7.219270381640486e-05,
+    "test_rmse": 32.314705314158694,
+    "test_crps mean": 12.134625293931226,
+    "test_crps std": 21.74548133671345,
+    "test_picp": 0.946,
+    "final_log_likelihood": -2738.2521108453066,
+    "final_hyperparameters": [
+      6757.586237706128,
+      56.47448367687129,
+      39.99521762919761,
+      0.00033688120442310066
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 0.0002355779782087282,
+    "test_rmse": 32.211362364419706,
+    "test_crps mean": 12.14654628281076,
+    "test_crps std": 21.62564905848088,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2743.921184747085,
+    "final_hyperparameters": [
+      6021.486037675582,
+      56.48978791297399,
+      39.998345436731796,
+      0.0011461308482845212
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 3.1113551222294174e-05,
+    "test_rmse": 32.12643164569644,
+    "test_crps mean": 12.1664958285017,
+    "test_crps std": 21.548608576186425,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2750.554982457776,
+    "final_hyperparameters": [
+      5369.690506891755,
+      56.492005111800836,
+      39.99995114621376,
+      0.00015447189652295634
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 8.16124314099431e-06,
+    "test_rmse": 32.06644428100308,
+    "test_crps mean": 12.204666430794779,
+    "test_crps std": 21.427700386530745,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2758.1401151724685,
+    "final_hyperparameters": [
+      4952.262532804511,
+      56.4910035442239,
+      39.99899262580206,
+      4.272683355388551e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 9.296815442928061e-05,
+    "test_rmse": 32.037072616372804,
+    "test_crps mean": 12.254542234066296,
+    "test_crps std": 21.359298535367255,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2766.5254212411387,
+    "final_hyperparameters": [
+      4558.97601255175,
+      56.49444013416708,
+      39.9992822538551,
+      0.000510811983049031
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 2.184889674724427e-05,
+    "test_rmse": 32.04147962373908,
+    "test_crps mean": 12.32181883598018,
+    "test_crps std": 21.300935171663777,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2775.590337893656,
+    "final_hyperparameters": [
+      4250.769337178208,
+      56.497076108772035,
+      39.99986243506887,
+      0.00012591109317749982
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 0.00033344771294873196,
+    "test_rmse": 32.08180576998195,
+    "test_crps mean": 12.405319844341262,
+    "test_crps std": 21.270203030780337,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2785.3403654507106,
+    "final_hyperparameters": [
+      3984.1038456282113,
+      56.49767871843316,
+      39.99531099643328,
+      0.002050821386472279
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 50.0,
+    "trial": 1,
+    "seed": 861,
+    "train_rmse": 2.5887809051995776e-05,
+    "test_rmse": 32.15971553215421,
+    "test_crps mean": 12.50499296410111,
+    "test_crps std": 21.26699241210202,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2795.475078954611,
+    "final_hyperparameters": [
+      3753.7141620594193,
+      56.494621185910546,
+      39.999849011103514,
+      0.00016512551836456169
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.09715763422932405,
+    "test_rmse": 30.460334708091796,
+    "test_crps mean": 10.331898234965148,
+    "test_crps std": 21.442380096739655,
+    "test_picp": 0.924,
+    "final_log_likelihood": -2689.4938429570147,
+    "final_hyperparameters": [
+      14719.428562480956,
+      16.13894341339818,
+      0.3585172263623022,
+      0.48205566104801356
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.09232571213142178,
+    "test_rmse": 30.464396340358306,
+    "test_crps mean": 10.334482945630104,
+    "test_crps std": 21.44660681487306,
+    "test_picp": 0.926,
+    "final_log_likelihood": -2689.4836446915906,
+    "final_hyperparameters": [
+      14269.331987510901,
+      16.159223511226536,
+      7.7199370792758195,
+      0.45343401652429804
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.08269430431983099,
+    "test_rmse": 30.46460166157565,
+    "test_crps mean": 10.337693645113578,
+    "test_crps std": 21.45539790872863,
+    "test_picp": 0.924,
+    "final_log_likelihood": -2689.505106395522,
+    "final_hyperparameters": [
+      13587.516263956728,
+      16.177773236127003,
+      14.82009296530939,
+      0.3961765287937986
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.09696772084945139,
+    "test_rmse": 30.475228173764,
+    "test_crps mean": 10.334657565842262,
+    "test_crps std": 21.475093695673554,
+    "test_picp": 0.924,
+    "final_log_likelihood": -2689.487392680498,
+    "final_hyperparameters": [
+      14514.397561573074,
+      16.165944401264642,
+      22.664910460602275,
+      0.4766022135745356
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.09407542317832325,
+    "test_rmse": 30.486786097247148,
+    "test_crps mean": 10.340892492487594,
+    "test_crps std": 21.469735505205467,
+    "test_picp": 0.924,
+    "final_log_likelihood": -2689.5064516328857,
+    "final_hyperparameters": [
+      13775.58141306031,
+      16.215476555280972,
+      29.42775837786649,
+      0.4656243921207066
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.09194725032404129,
+    "test_rmse": 30.462219325835495,
+    "test_crps mean": 10.334713270149237,
+    "test_crps std": 21.455432104225704,
+    "test_picp": 0.926,
+    "final_log_likelihood": -2689.4809848294094,
+    "final_hyperparameters": [
+      14051.272026977036,
+      16.162029979753527,
+      37.023200986956915,
+      0.4502855155265211
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.0005806294848743003,
+    "test_rmse": 30.325674826136442,
+    "test_crps mean": 10.34367186313065,
+    "test_crps std": 21.29936063162525,
+    "test_picp": 0.92,
+    "final_log_likelihood": -2690.2110991817517,
+    "final_hyperparameters": [
+      10785.488790728792,
+      16.014880051377297,
+      39.689070967049645,
+      0.0023689832608360106
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 4.514468174926982e-05,
+    "test_rmse": 30.416245822301207,
+    "test_crps mean": 10.43209702494845,
+    "test_crps std": 21.432383754682267,
+    "test_picp": 0.928,
+    "final_log_likelihood": -2694.3273554182247,
+    "final_hyperparameters": [
+      7437.649664077617,
+      16.342192609460675,
+      39.99748816298954,
+      0.0001995004479056206
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 4.6128312864978265e-05,
+    "test_rmse": 30.463178945498157,
+    "test_crps mean": 10.558258227734619,
+    "test_crps std": 21.42687081501593,
+    "test_picp": 0.938,
+    "final_log_likelihood": -2703.463381759396,
+    "final_hyperparameters": [
+      5597.491317519045,
+      16.46640668332309,
+      39.992903360398465,
+      0.00023761240287534235
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 9.32420092062114e-05,
+    "test_rmse": 30.5867322172692,
+    "test_crps mean": 10.738798131579891,
+    "test_crps std": 21.446076791947043,
+    "test_picp": 0.946,
+    "final_log_likelihood": -2717.212162963645,
+    "final_hyperparameters": [
+      4479.754620392341,
+      16.539638748262607,
+      39.99701332188373,
+      0.0005663431987956713
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 9.154499916080255e-05,
+    "test_rmse": 30.84288710998261,
+    "test_crps mean": 10.990097098952432,
+    "test_crps std": 21.499242730822512,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2735.0213129803246,
+    "final_hyperparameters": [
+      3816.4102868821356,
+      16.637155808288583,
+      39.998691940513524,
+      0.0006643560453074571
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.41943369683129833,
+    "test_rmse": 32.95035691116167,
+    "test_crps mean": 11.442881277980026,
+    "test_crps std": 22.853432175489644,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2773.0415835964423,
+    "final_hyperparameters": [
+      10872.414258416451,
+      49.153708237010605,
+      39.941153693949204,
+      3.1118122434235973
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.4146915817198077,
+    "test_rmse": 32.80709042693544,
+    "test_crps mean": 11.465720114926667,
+    "test_crps std": 22.631795663690237,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2775.7549959888515,
+    "final_hyperparameters": [
+      9690.176123869198,
+      50.28417219799529,
+      39.978661864000955,
+      3.0587763801980947
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.40866980853586465,
+    "test_rmse": 32.684394574892906,
+    "test_crps mean": 11.498773290222033,
+    "test_crps std": 22.394488954550617,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2779.0986222244337,
+    "final_hyperparameters": [
+      8871.131377037033,
+      51.26520891287714,
+      39.99998779508555,
+      3.056510138893402
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.40919710009371907,
+    "test_rmse": 32.58045857675069,
+    "test_crps mean": 11.532205820905407,
+    "test_crps std": 22.201687379521974,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2782.937324184758,
+    "final_hyperparameters": [
+      8297.600259062077,
+      52.39868962968634,
+      39.998970037265956,
+      3.1101710971144696
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.41814009678902553,
+    "test_rmse": 32.489528687104254,
+    "test_crps mean": 11.560593974201351,
+    "test_crps std": 22.04719926217231,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2787.1302148398927,
+    "final_hyperparameters": [
+      8002.102346348751,
+      53.82282032321751,
+      39.9940649939971,
+      3.2388598494161887
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.40067029295243056,
+    "test_rmse": 32.42906890986059,
+    "test_crps mean": 11.602665511539064,
+    "test_crps std": 21.914366095319817,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2791.411787744554,
+    "final_hyperparameters": [
+      7515.61632334278,
+      54.681606911178704,
+      39.99699562035158,
+      3.0351219089923775
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.40826300098569157,
+    "test_rmse": 32.37749289078358,
+    "test_crps mean": 11.64685318183283,
+    "test_crps std": 21.795833358401392,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2795.7347472903707,
+    "final_hyperparameters": [
+      7237.955561345618,
+      55.74924144227455,
+      39.999742236613756,
+      3.2004671885021043
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.39515849302841455,
+    "test_rmse": 32.34926532605778,
+    "test_crps mean": 11.70126470565692,
+    "test_crps std": 21.698220849691044,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2800.103217038003,
+    "final_hyperparameters": [
+      6827.996249355841,
+      56.40102088451509,
+      39.99896596293114,
+      3.0863579855405066
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.3847315611624952,
+    "test_rmse": 32.35701331249623,
+    "test_crps mean": 11.778836149172202,
+    "test_crps std": 21.671015762142297,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2805.130691268776,
+    "final_hyperparameters": [
+      6093.15645229927,
+      56.42525417472588,
+      39.99999849559094,
+      3.0310403822027805
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.37291186590507813,
+    "test_rmse": 32.393582119229116,
+    "test_crps mean": 11.871569640612812,
+    "test_crps std": 21.64721584981195,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2810.932141745217,
+    "final_hyperparameters": [
+      5534.1660920630675,
+      56.42819803864618,
+      39.99717828722737,
+      2.977860931936676
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.36803141607170725,
+    "test_rmse": 32.46247628205942,
+    "test_crps mean": 11.981453373920388,
+    "test_crps std": 21.637966183483407,
+    "test_picp": 0.968,
+    "final_log_likelihood": -2817.403645876279,
+    "final_hyperparameters": [
+      5094.361522588937,
+      56.42772232318312,
+      39.99876025792953,
+      3.0489368772162537
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.35969066272694733,
+    "test_rmse": 32.56349543133236,
+    "test_crps mean": 12.105796574296692,
+    "test_crps std": 21.643284820576046,
+    "test_picp": 0.968,
+    "final_log_likelihood": -2824.481757045123,
+    "final_hyperparameters": [
+      4754.04919990676,
+      56.432634474237005,
+      39.99947747026535,
+      3.0735972567510244
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.342673369694277,
+    "test_rmse": 32.698370204947686,
+    "test_crps mean": 12.245214839608051,
+    "test_crps std": 21.664568695783224,
+    "test_picp": 0.968,
+    "final_log_likelihood": -2832.1827821039924,
+    "final_hyperparameters": [
+      4487.800175373617,
+      56.427611631029876,
+      39.99160672008236,
+      2.9597786695845376
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 50.0,
+    "trial": 2,
+    "seed": 76821,
+    "train_rmse": 0.3465922489402607,
+    "test_rmse": 32.873400458291066,
+    "test_crps mean": 12.395656219058928,
+    "test_crps std": 21.760453659707387,
+    "test_picp": 0.968,
+    "final_log_likelihood": -2840.2285681774615,
+    "final_hyperparameters": [
+      4189.017641731654,
+      56.430880696387476,
+      39.99891225435459,
+      3.1514678976557873
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 4.937033052395089e-06,
+    "test_rmse": 25.19345513212654,
+    "test_crps mean": 9.189268484994644,
+    "test_crps std": 16.301673292590024,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2696.689883776144,
+    "final_hyperparameters": [
+      13226.69620148273,
+      18.708833131010284,
+      0.3279974424594876,
+      2.4973858776533575e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 5.3996701770925153e-05,
+    "test_rmse": 25.200683111833328,
+    "test_crps mean": 9.18693511611021,
+    "test_crps std": 16.33376801588488,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2696.690681513076,
+    "final_hyperparameters": [
+      12966.188856617373,
+      18.759768747398905,
+      7.120889874768325,
+      0.0002701081965703622
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.00015133065097629672,
+    "test_rmse": 25.20896641294608,
+    "test_crps mean": 9.188518202207982,
+    "test_crps std": 16.347658716872704,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2696.6815121058175,
+    "final_hyperparameters": [
+      12751.575321905606,
+      18.73054838199988,
+      13.841547630192553,
+      0.0007590813336504354
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.0005621414624727925,
+    "test_rmse": 25.22691279724608,
+    "test_crps mean": 9.193129688597523,
+    "test_crps std": 16.36299561241554,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2696.683959178669,
+    "final_hyperparameters": [
+      12461.457571166859,
+      18.7351376885778,
+      20.399436698366603,
+      0.0028463923145958248
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.000734403858343908,
+    "test_rmse": 25.242089378170416,
+    "test_crps mean": 9.198783430839857,
+    "test_crps std": 16.36870376836649,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2696.695394726811,
+    "final_hyperparameters": [
+      12243.0190263759,
+      18.7020793797827,
+      26.85957243036873,
+      0.003767193385446177
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.0010308928279248453,
+    "test_rmse": 25.234423574491345,
+    "test_crps mean": 9.197683928347884,
+    "test_crps std": 16.361729571586554,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2696.710281979735,
+    "final_hyperparameters": [
+      12384.3327354652,
+      18.629480443942022,
+      33.681130643674436,
+      0.005283840657037686
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.0005512657277753323,
+    "test_rmse": 25.2504864931206,
+    "test_crps mean": 9.202173486299982,
+    "test_crps std": 16.366415653883266,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2696.7176771716545,
+    "final_hyperparameters": [
+      12164.143420443404,
+      18.732790335265967,
+      39.92894768848625,
+      0.002848196881824805
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.2674109770840195,
+    "test_rmse": 29.436813790610117,
+    "test_crps mean": 10.985280647595719,
+    "test_crps std": 19.700410914252217,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2748.235420746207,
+    "final_hyperparameters": [
+      19572.029533731577,
+      51.50439301322919,
+      30.020696207639183,
+      1.7510513859345744
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.0007351548583317479,
+    "test_rmse": 25.99929290702016,
+    "test_crps mean": 9.45801742638305,
+    "test_crps std": 17.258359455339672,
+    "test_picp": 0.942,
+    "final_log_likelihood": -2706.578143739045,
+    "final_hyperparameters": [
+      6025.57085335179,
+      18.79280784616521,
+      39.989763522964026,
+      0.004703266843073095
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.0004428651961386306,
+    "test_rmse": 26.476769072614513,
+    "test_crps mean": 9.671605573298198,
+    "test_crps std": 17.740971468074395,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2718.12821908311,
+    "final_hyperparameters": [
+      4703.741658221581,
+      18.781975352144773,
+      39.9954604487738,
+      0.003215093435083638
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.26538119489892814,
+    "test_rmse": 29.416337190291785,
+    "test_crps mean": 10.977307201496592,
+    "test_crps std": 19.671206916824953,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2748.5307088326367,
+    "final_hyperparameters": [
+      16482.380679178867,
+      51.80940324610465,
+      39.986438337129385,
+      1.7176543058663527
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.26756300144523565,
+    "test_rmse": 29.382894103406297,
+    "test_crps mean": 10.969696936515327,
+    "test_crps std": 19.595825597928098,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2749.915606634481,
+    "final_hyperparameters": [
+      13246.090786155139,
+      52.30320644918227,
+      39.89662025505099,
+      1.761951901958834
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.2713911930235993,
+    "test_rmse": 29.361367331264333,
+    "test_crps mean": 10.977842735857255,
+    "test_crps std": 19.497067679759166,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2752.1038640677757,
+    "final_hyperparameters": [
+      11495.941420424264,
+      52.994287398673364,
+      39.997180365818835,
+      1.852870430673442
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.2774330600031846,
+    "test_rmse": 29.35765976286168,
+    "test_crps mean": 10.995962106413657,
+    "test_crps std": 19.480176579688447,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2755.089630727764,
+    "final_hyperparameters": [
+      10044.944404640177,
+      53.858052038051554,
+      39.98973958665195,
+      1.9253830424906746
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.27261767552209143,
+    "test_rmse": 29.36539481141683,
+    "test_crps mean": 11.024188950356363,
+    "test_crps std": 19.440233936533588,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2758.6447801433346,
+    "final_hyperparameters": [
+      9050.844962098403,
+      54.67740593532704,
+      39.980290373155746,
+      1.8889353534534892
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.2780685377182548,
+    "test_rmse": 29.39339484634631,
+    "test_crps mean": 11.055389412636043,
+    "test_crps std": 19.455682651721165,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2762.572961597682,
+    "final_hyperparameters": [
+      8208.639624481206,
+      55.49594899076425,
+      39.99861929470141,
+      1.9689698745864033
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.2677167504805851,
+    "test_rmse": 29.42761055800935,
+    "test_crps mean": 11.098662244211832,
+    "test_crps std": 19.432527255803304,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2766.767695452452,
+    "final_hyperparameters": [
+      7685.56464305229,
+      56.3475781391994,
+      39.98990178623622,
+      1.8707215777764525
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.28399374850201264,
+    "test_rmse": 29.46830576999382,
+    "test_crps mean": 11.128885115492237,
+    "test_crps std": 19.480521718791238,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2771.405558640623,
+    "final_hyperparameters": [
+      6789.087982769124,
+      56.52276539020049,
+      39.996192639331205,
+      2.1420144413393425
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.2653055893542833,
+    "test_rmse": 29.519014607868694,
+    "test_crps mean": 11.178596010634221,
+    "test_crps std": 19.501133793534596,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2776.826622067038,
+    "final_hyperparameters": [
+      6074.406928577751,
+      56.55910613772877,
+      39.9771864183201,
+      1.9622599458178613
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.25845363491954804,
+    "test_rmse": 29.60031320189726,
+    "test_crps mean": 11.23383606300915,
+    "test_crps std": 19.600728191658696,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2782.993042099945,
+    "final_hyperparameters": [
+      5387.952428521356,
+      56.56220937329641,
+      39.997958364053865,
+      1.9132270165286198
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.24991317829476042,
+    "test_rmse": 29.712875888976853,
+    "test_crps mean": 11.320266725481837,
+    "test_crps std": 19.639886590203577,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2789.8903933808942,
+    "final_hyperparameters": [
+      4981.704745135794,
+      56.549035738962885,
+      39.999359176336824,
+      1.9086030704781622
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.26175243400852916,
+    "test_rmse": 29.861043292604315,
+    "test_crps mean": 11.418027805494107,
+    "test_crps std": 19.738404101913527,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2797.4508291280595,
+    "final_hyperparameters": [
+      4594.98322607961,
+      56.56123485186992,
+      39.999487975175256,
+      2.172231312548634
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.2315918084199835,
+    "test_rmse": 30.03469679405593,
+    "test_crps mean": 11.533748347978014,
+    "test_crps std": 19.847905848920355,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2805.5620755714567,
+    "final_hyperparameters": [
+      4261.405202690978,
+      56.56001533112353,
+      39.997124934200784,
+      1.8294373138728912
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.2233221623796364,
+    "test_rmse": 30.24762993281586,
+    "test_crps mean": 11.673513742197185,
+    "test_crps std": 19.958258175495313,
+    "test_picp": 0.966,
+    "final_log_likelihood": -2814.20523714617,
+    "final_hyperparameters": [
+      4023.2037720634835,
+      56.56129868716808,
+      39.99677425430396,
+      1.8205567038825783
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 50.0,
+    "trial": 3,
+    "seed": 54887,
+    "train_rmse": 0.19990665823520892,
+    "test_rmse": 30.49366145303666,
+    "test_crps mean": 11.83460320948531,
+    "test_crps std": 20.075994606330045,
+    "test_picp": 0.966,
+    "final_log_likelihood": -2823.3109680511475,
+    "final_hyperparameters": [
+      3835.3624808789464,
+      56.5604923892463,
+      39.99574858999263,
+      1.613237964864474
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.000204542142433221,
+    "test_rmse": 29.439775942038747,
+    "test_crps mean": 9.641070157616166,
+    "test_crps std": 19.993340256196586,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2713.4772459158926,
+    "final_hyperparameters": [
+      11516.77860188653,
+      18.019824310937096,
+      0.3115537114364457,
+      0.0013534211659047557
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.000317303388846375,
+    "test_rmse": 29.484439864201246,
+    "test_crps mean": 9.648429665035303,
+    "test_crps std": 19.955475985812715,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2713.476403351227,
+    "final_hyperparameters": [
+      12281.245944962255,
+      18.04793085590647,
+      6.919860878419238,
+      0.002109173441239065
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.00012180744044832021,
+    "test_rmse": 29.75400680135368,
+    "test_crps mean": 9.820616372441284,
+    "test_crps std": 20.887142157223053,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2713.951920768698,
+    "final_hyperparameters": [
+      11853.269725570222,
+      15.410063734562273,
+      13.70795880433987,
+      0.0008163734263169076
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 7.983866395106019e-05,
+    "test_rmse": 29.482445192405,
+    "test_crps mean": 9.64787953649408,
+    "test_crps std": 19.959072979662373,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2713.453742473535,
+    "final_hyperparameters": [
+      12239.103924484574,
+      18.045368446974386,
+      20.108144413099524,
+      0.000529622967495591
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 3.44228323265525e-05,
+    "test_rmse": 29.45519644696906,
+    "test_crps mean": 9.643287144703343,
+    "test_crps std": 19.981841507555085,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2713.446444703731,
+    "final_hyperparameters": [
+      11771.804736858117,
+      18.028942077517613,
+      26.399524300387384,
+      0.00022771646127317524
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 2.6089137569156767e-05,
+    "test_rmse": 29.452532388094927,
+    "test_crps mean": 9.645041450331732,
+    "test_crps std": 19.9576508704243,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2713.448267225843,
+    "final_hyperparameters": [
+      11837.215636643989,
+      18.03658977281927,
+      32.88074566596148,
+      0.00017412808834471605
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 2.784466113216558e-05,
+    "test_rmse": 29.42199006917158,
+    "test_crps mean": 9.64291919113732,
+    "test_crps std": 19.946821669362475,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2713.4797703389067,
+    "final_hyperparameters": [
+      11417.285703945905,
+      18.105106283756644,
+      38.85378571902892,
+      0.00018641336980174117
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.0001698795585685682,
+    "test_rmse": 29.202332707874273,
+    "test_crps mean": 9.661036071217186,
+    "test_crps std": 19.95750264523331,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2715.5943864685687,
+    "final_hyperparameters": [
+      8422.293384608754,
+      18.10946175153215,
+      39.9920152086444,
+      0.0012313659053893034
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 2.6720807767655978e-05,
+    "test_rmse": 32.03513684096802,
+    "test_crps mean": 11.207682030395603,
+    "test_crps std": 22.0865519518837,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2766.1970713462583,
+    "final_hyperparameters": [
+      16573.332848025428,
+      52.87485118510479,
+      30.033275689131237,
+      0.00012471114623213708
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.0001626982168937804,
+    "test_rmse": 32.028008801637036,
+    "test_crps mean": 11.195231247225445,
+    "test_crps std": 22.083177614086853,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2766.2407451616964,
+    "final_hyperparameters": [
+      17697.88570293988,
+      52.784579647265744,
+      34.57909226722995,
+      0.000769018410723632
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.000532764806527508,
+    "test_rmse": 32.033739548539,
+    "test_crps mean": 11.198905337438879,
+    "test_crps std": 22.12207592063785,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2766.26527003609,
+    "final_hyperparameters": [
+      17399.340980082285,
+      52.899873253198,
+      38.192696044760666,
+      0.0025081700547682217
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.0001283952018416452,
+    "test_rmse": 32.04908823888654,
+    "test_crps mean": 11.22940727076909,
+    "test_crps std": 22.064318423744965,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2766.2811764084595,
+    "final_hyperparameters": [
+      15454.765558618063,
+      53.06385163635968,
+      39.90246022106879,
+      0.0006016084822419998
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 2.804583839661479e-05,
+    "test_rmse": 32.09098262568934,
+    "test_crps mean": 11.291329195271462,
+    "test_crps std": 22.01929237155374,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2767.139877323506,
+    "final_hyperparameters": [
+      12866.29088808602,
+      53.52220733117192,
+      39.96816200822819,
+      0.00013134413313498072
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.0001429959034212019,
+    "test_rmse": 32.136326976374704,
+    "test_crps mean": 11.357612076694753,
+    "test_crps std": 21.97674622073045,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2768.9023341603593,
+    "final_hyperparameters": [
+      10841.954197900486,
+      53.848842508539434,
+      39.985122510957254,
+      0.0006809982821840421
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.0006128955731200155,
+    "test_rmse": 32.19653537172313,
+    "test_crps mean": 11.42698893761362,
+    "test_crps std": 22.00456133106264,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2771.4149117545203,
+    "final_hyperparameters": [
+      9377.152857698733,
+      54.38077631926696,
+      39.9975595149928,
+      0.0029633128173260914
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.00011872359451792074,
+    "test_rmse": 32.268311380516685,
+    "test_crps mean": 11.497476411946613,
+    "test_crps std": 22.061416336644324,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2774.5024731120166,
+    "final_hyperparameters": [
+      8578.385808927473,
+      55.350602760563945,
+      39.991972306067865,
+      0.0005588823706430546
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 4.4882489803256874e-05,
+    "test_rmse": 32.33388271121447,
+    "test_crps mean": 11.569001023807912,
+    "test_crps std": 22.07362729004746,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2778.0171881465676,
+    "final_hyperparameters": [
+      7862.711683724425,
+      56.025069695560596,
+      39.99958436004688,
+      0.00021361024823995933
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.00014383844619427123,
+    "test_rmse": 32.402956443341054,
+    "test_crps mean": 11.640904691518932,
+    "test_crps std": 22.104946243403354,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2781.8891969743413,
+    "final_hyperparameters": [
+      7181.697091232054,
+      56.590024842533076,
+      39.98782945601363,
+      0.000696713832660123
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.00022521741133176525,
+    "test_rmse": 32.49156186066749,
+    "test_crps mean": 11.727095551851264,
+    "test_crps std": 22.12912011348816,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2786.266034594109,
+    "final_hyperparameters": [
+      6451.7852531873505,
+      56.71785105782155,
+      39.99366474026676,
+      0.0011338276351047227
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.00027096517953058855,
+    "test_rmse": 32.60974127781638,
+    "test_crps mean": 11.823396447237394,
+    "test_crps std": 22.218724152516543,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2791.444762621629,
+    "final_hyperparameters": [
+      5721.178856143844,
+      56.71174550754495,
+      39.9830192506532,
+      0.0014081422130196586
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 2.9221330232529622e-05,
+    "test_rmse": 32.755170407893694,
+    "test_crps mean": 11.939217459142034,
+    "test_crps std": 22.27504943099064,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2797.230440518,
+    "final_hyperparameters": [
+      5252.347694381024,
+      56.71829271341491,
+      39.99194082502454,
+      0.00015856004471093144
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 6.0628481593181915e-05,
+    "test_rmse": 32.93308890085744,
+    "test_crps mean": 12.064034362072318,
+    "test_crps std": 22.39795481345348,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2803.7045989777102,
+    "final_hyperparameters": [
+      4797.522808869951,
+      56.71767847925364,
+      39.99056397221456,
+      0.0003440946097841291
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.00048681915850615307,
+    "test_rmse": 33.14248849995716,
+    "test_crps mean": 12.199867308791143,
+    "test_crps std": 22.560810285102587,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2810.7857330270413,
+    "final_hyperparameters": [
+      4398.74547075294,
+      56.72009701384286,
+      39.99094325224391,
+      0.0029352802614601714
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.0006361290075396641,
+    "test_rmse": 33.38345760164505,
+    "test_crps mean": 12.358675486672391,
+    "test_crps std": 22.694997802055052,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2818.362764584828,
+    "final_hyperparameters": [
+      4138.694048615522,
+      56.71918822400539,
+      39.99430411763573,
+      0.004106608267626655
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 50.0,
+    "trial": 4,
+    "seed": 6266,
+    "train_rmse": 0.00027990980691824257,
+    "test_rmse": 33.654482635907186,
+    "test_crps mean": 12.53524906364863,
+    "test_crps std": 22.833353294256554,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2826.392664764501,
+    "final_hyperparameters": [
+      3943.0119072627276,
+      56.71672956450384,
+      39.9982786343354,
+      0.001904104936366835
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.0004159535777400098,
+    "test_rmse": 27.44979958084044,
+    "test_crps mean": 10.257997038724737,
+    "test_crps std": 17.88651815310446,
+    "test_picp": 0.942,
+    "final_log_likelihood": -2669.60880376536,
+    "final_hyperparameters": [
+      9105.681731640652,
+      31.38289020245285,
+      0.2700849305844173,
+      0.0027126843525575595
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.0007290519711431235,
+    "test_rmse": 27.442399208342444,
+    "test_crps mean": 10.258784456240999,
+    "test_crps std": 17.937874133080193,
+    "test_picp": 0.942,
+    "final_log_likelihood": -2669.585432125255,
+    "final_hyperparameters": [
+      9022.77165405138,
+      31.428765185396312,
+      5.9184709347955256,
+      0.004635473389217104
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 4.109610447645995e-06,
+    "test_rmse": 27.44298613889275,
+    "test_crps mean": 10.258144461658182,
+    "test_crps std": 17.925334515509476,
+    "test_picp": 0.942,
+    "final_log_likelihood": -2669.533457640471,
+    "final_hyperparameters": [
+      9101.366550405743,
+      31.40115032872308,
+      11.58350970032891,
+      2.6098333543167485e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 9.27502309301453e-05,
+    "test_rmse": 27.444865339850843,
+    "test_crps mean": 10.258144446822884,
+    "test_crps std": 17.908560729502984,
+    "test_picp": 0.942,
+    "final_log_likelihood": -2669.5438050349676,
+    "final_hyperparameters": [
+      9093.166534936288,
+      31.418331285084875,
+      17.172794824778805,
+      0.0005963324762037203
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.00022508303803349457,
+    "test_rmse": 27.43788877054684,
+    "test_crps mean": 10.25824892425613,
+    "test_crps std": 17.904006379476986,
+    "test_picp": 0.944,
+    "final_log_likelihood": -2669.5654811086147,
+    "final_hyperparameters": [
+      9196.278685075056,
+      31.491041884678435,
+      22.875104769943327,
+      0.0014504488906288415
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.00025063112010499764,
+    "test_rmse": 28.25209057631987,
+    "test_crps mean": 10.987054942918192,
+    "test_crps std": 18.74537786266765,
+    "test_picp": 0.934,
+    "final_log_likelihood": -2683.6094078500746,
+    "final_hyperparameters": [
+      9993.662227614142,
+      48.89921712887532,
+      19.50550685608293,
+      0.0014899029754005255
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.00011568398492175132,
+    "test_rmse": 27.44762323844881,
+    "test_crps mean": 10.25734595653995,
+    "test_crps std": 17.91061949224197,
+    "test_picp": 0.942,
+    "final_log_likelihood": -2669.561278540759,
+    "final_hyperparameters": [
+      9186.974839722796,
+      31.304065614327815,
+      34.28556880113745,
+      0.0007364074021660727
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 4.139129735836843e-05,
+    "test_rmse": 27.44523848200498,
+    "test_crps mean": 10.259095704801782,
+    "test_crps std": 17.925347266657624,
+    "test_picp": 0.942,
+    "final_log_likelihood": -2669.5429798230484,
+    "final_hyperparameters": [
+      8934.011574555247,
+      31.476309208044928,
+      39.50736900978045,
+      0.0002657448649374672
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.00011191812533597217,
+    "test_rmse": 27.601321190045944,
+    "test_crps mean": 10.296390243033077,
+    "test_crps std": 18.130733897322266,
+    "test_picp": 0.944,
+    "final_log_likelihood": -2671.877505540454,
+    "final_hyperparameters": [
+      6525.477679081261,
+      31.580598223110663,
+      39.94470544901897,
+      0.0007800908002932871
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 6.131362130081755e-06,
+    "test_rmse": 28.247521049816847,
+    "test_crps mean": 10.983064041212891,
+    "test_crps std": 18.76685226162341,
+    "test_picp": 0.934,
+    "final_log_likelihood": -2683.621828615457,
+    "final_hyperparameters": [
+      9823.314497194428,
+      48.58639293289459,
+      35.21818543361799,
+      3.6336560994776335e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 5.51434505040822e-05,
+    "test_rmse": 28.25083837879977,
+    "test_crps mean": 10.988063036414879,
+    "test_crps std": 18.76185461398251,
+    "test_picp": 0.934,
+    "final_log_likelihood": -2683.606721454297,
+    "final_hyperparameters": [
+      9974.415324117523,
+      48.91113075343767,
+      38.88943649500464,
+      0.0003245064252697105
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.0003602479400946924,
+    "test_rmse": 28.306715420269374,
+    "test_crps mean": 11.008880640954645,
+    "test_crps std": 18.72174382874172,
+    "test_picp": 0.932,
+    "final_log_likelihood": -2684.03923714088,
+    "final_hyperparameters": [
+      9255.76433964941,
+      49.838166199660066,
+      39.976749623563435,
+      0.00216638000712166
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.0003008853128828521,
+    "test_rmse": 28.3893925435749,
+    "test_crps mean": 11.04822533732153,
+    "test_crps std": 18.747021745809192,
+    "test_picp": 0.932,
+    "final_log_likelihood": -2685.611721787433,
+    "final_hyperparameters": [
+      8307.296260266565,
+      51.16873765434275,
+      39.995629599984106,
+      0.0017941949664646017
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 4.236531938177009e-05,
+    "test_rmse": 28.468903587594266,
+    "test_crps mean": 11.090107569614014,
+    "test_crps std": 18.72811979777533,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2688.107441067257,
+    "final_hyperparameters": [
+      7712.786979383556,
+      52.44537756173529,
+      39.99970124546997,
+      0.0002548413125387228
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.00024897540093998604,
+    "test_rmse": 28.53874102699633,
+    "test_crps mean": 11.134215120483177,
+    "test_crps std": 18.73334549511935,
+    "test_picp": 0.938,
+    "final_log_likelihood": -2691.349735905898,
+    "final_hyperparameters": [
+      7060.250237894768,
+      53.54042712553097,
+      39.97965501994365,
+      0.0015049306851695476
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.0006001889067620633,
+    "test_rmse": 28.599489094184275,
+    "test_crps mean": 11.177845931974192,
+    "test_crps std": 18.695247431604702,
+    "test_picp": 0.938,
+    "final_log_likelihood": -2695.0450592870125,
+    "final_hyperparameters": [
+      6614.852029426082,
+      54.52128889093693,
+      39.99431248330893,
+      0.003721274184427692
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.00026413137346426117,
+    "test_rmse": 28.654892337740918,
+    "test_crps mean": 11.231776479379844,
+    "test_crps std": 18.64395037935066,
+    "test_picp": 0.94,
+    "final_log_likelihood": -2699.0127112418536,
+    "final_hyperparameters": [
+      6524.270541000878,
+      55.933652939089924,
+      39.99599254519348,
+      0.0016468536498761566
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.00022182723156148222,
+    "test_rmse": 28.70750996487759,
+    "test_crps mean": 11.265795207300405,
+    "test_crps std": 18.659732381445743,
+    "test_picp": 0.944,
+    "final_log_likelihood": -2703.360616487448,
+    "final_hyperparameters": [
+      5798.7185932067805,
+      56.23849097656107,
+      39.99262549228,
+      0.0014202888384815537
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.00012897572978295147,
+    "test_rmse": 28.77675939102092,
+    "test_crps mean": 11.30261868527252,
+    "test_crps std": 18.680944355159056,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2708.856071549699,
+    "final_hyperparameters": [
+      5135.264415189449,
+      56.23992380897187,
+      39.9972682791534,
+      0.0008646976508082105
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.0003359320109443808,
+    "test_rmse": 28.867826194575564,
+    "test_crps mean": 11.3501242874505,
+    "test_crps std": 18.722754092803022,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2715.5012794903637,
+    "final_hyperparameters": [
+      4611.167293743871,
+      56.237099947137494,
+      39.998287682560246,
+      0.0023745859713582007
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.0003635004788477146,
+    "test_rmse": 28.983440561612397,
+    "test_crps mean": 11.410793085823734,
+    "test_crps std": 18.763138607723096,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2723.173696969556,
+    "final_hyperparameters": [
+      4233.885725607455,
+      56.23334822009489,
+      39.99960559521244,
+      0.0027381561775232655
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.00014537677298919822,
+    "test_rmse": 29.125005224688625,
+    "test_crps mean": 11.482547202068819,
+    "test_crps std": 18.85659791007668,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2731.7236481447644,
+    "final_hyperparameters": [
+      3886.7467312353547,
+      56.23905727256795,
+      39.99926094419286,
+      0.0011524885937710394
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.00021085444407002629,
+    "test_rmse": 29.296336006529653,
+    "test_crps mean": 11.568339914201596,
+    "test_crps std": 18.976621249853284,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2741.192483876247,
+    "final_hyperparameters": [
+      3599.2004887118237,
+      56.23974299761222,
+      39.99079460936367,
+      0.0017677306599921394
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.0003571399545950493,
+    "test_rmse": 29.496809996217248,
+    "test_crps mean": 11.668921686641823,
+    "test_crps std": 19.1125931308672,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2751.3561023977963,
+    "final_hyperparameters": [
+      3373.3666473515914,
+      56.23438607325816,
+      39.9970912774299,
+      0.003183080738218713
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 50.0,
+    "trial": 5,
+    "seed": 82387,
+    "train_rmse": 0.00028332453292438995,
+    "test_rmse": 29.726673426579822,
+    "test_crps mean": 11.793208851422769,
+    "test_crps std": 19.203828485702406,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2762.071830913753,
+    "final_hyperparameters": [
+      3270.1363000038546,
+      56.23573981715799,
+      39.99718858111472,
+      0.002751393986280881
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.00012099298837331538,
+    "test_rmse": 37.18744035162919,
+    "test_crps mean": 11.314020866988104,
+    "test_crps std": 28.5667418218969,
+    "test_picp": 0.942,
+    "final_log_likelihood": -2666.7400389508243,
+    "final_hyperparameters": [
+      11806.248379792552,
+      13.77538492318442,
+      0.33089867383151983,
+      0.0006447533863926935
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 5.524466556113561e-05,
+    "test_rmse": 37.25074339137412,
+    "test_crps mean": 11.324114655509316,
+    "test_crps std": 28.588307568760126,
+    "test_picp": 0.942,
+    "final_log_likelihood": -2666.7474006015796,
+    "final_hyperparameters": [
+      12300.171643313079,
+      13.77052181886493,
+      7.288872813517486,
+      0.00029719644066439344
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.0002113970819194444,
+    "test_rmse": 37.26690146289833,
+    "test_crps mean": 11.324334329331412,
+    "test_crps std": 28.60915590723254,
+    "test_picp": 0.942,
+    "final_log_likelihood": -2666.7498947124964,
+    "final_hyperparameters": [
+      12346.475505928218,
+      13.784093027300848,
+      14.286960794509078,
+      0.0011302679864240162
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.2790743588843331,
+    "test_rmse": 42.03296875464194,
+    "test_crps mean": 13.406938371365525,
+    "test_crps std": 31.661264267657206,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2672.4739824782896,
+    "final_hyperparameters": [
+      13701.520380418457,
+      54.41972441640452,
+      10.959575046441778,
+      1.5842685717333147
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 7.784933123345883e-05,
+    "test_rmse": 33.9756994640409,
+    "test_crps mean": 11.253110051309458,
+    "test_crps std": 23.524182737782347,
+    "test_picp": 0.944,
+    "final_log_likelihood": -2672.151380117319,
+    "final_hyperparameters": [
+      9120.6507939609,
+      29.774750982648392,
+      22.32375268011065,
+      0.0003800614326952001
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.2851072085994001,
+    "test_rmse": 41.97861504223351,
+    "test_crps mean": 13.407427239679203,
+    "test_crps std": 31.63372486107347,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2672.4545619910705,
+    "final_hyperparameters": [
+      13162.604844653339,
+      54.45076404140167,
+      17.93155772078942,
+      1.6369738419130524
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.2889358733364112,
+    "test_rmse": 42.00663232960198,
+    "test_crps mean": 13.405053926656901,
+    "test_crps std": 31.641693038367617,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2672.462302981882,
+    "final_hyperparameters": [
+      13494.110931018251,
+      54.16940847143039,
+      21.85749222381201,
+      1.6862915519595552
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.2869688025178086,
+    "test_rmse": 41.998157550066146,
+    "test_crps mean": 13.40919308688024,
+    "test_crps std": 31.675358593896217,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2672.4497459121612,
+    "final_hyperparameters": [
+      13250.124701822526,
+      54.19942175611624,
+      25.407932284409007,
+      1.6420519860244776
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.2827079919952618,
+    "test_rmse": 41.97017378174172,
+    "test_crps mean": 13.405695773675081,
+    "test_crps std": 31.622956806857196,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2672.4532204211914,
+    "final_hyperparameters": [
+      13144.458688896382,
+      54.42943116124593,
+      28.58857846816456,
+      1.6138034418375669
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.29014537788315276,
+    "test_rmse": 42.04391215575061,
+    "test_crps mean": 13.410520597285979,
+    "test_crps std": 31.68230578439821,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2672.462890637052,
+    "final_hyperparameters": [
+      13663.398882406065,
+      54.33547600236041,
+      32.64950491851104,
+      1.694271539364126
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.2806910935970195,
+    "test_rmse": 42.00243948917185,
+    "test_crps mean": 13.404664644166667,
+    "test_crps std": 31.638329744741636,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2672.452451854579,
+    "final_hyperparameters": [
+      13478.14299169014,
+      54.32561374469431,
+      36.08204714830468,
+      1.599304016794898
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.2784093401686134,
+    "test_rmse": 41.97484078054359,
+    "test_crps mean": 13.401084027312692,
+    "test_crps std": 31.61311459259804,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2672.450994493932,
+    "final_hyperparameters": [
+      13338.062602393038,
+      54.22286925291485,
+      39.69265270585109,
+      1.5766040373286292
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.27529148989961477,
+    "test_rmse": 41.619765165919794,
+    "test_crps mean": 13.378884208142768,
+    "test_crps std": 31.25494836607121,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2672.93665776027,
+    "final_hyperparameters": [
+      11269.048673315498,
+      54.69419601626414,
+      39.973052060941434,
+      1.5777399524984208
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.28583521444187965,
+    "test_rmse": 41.37931212383645,
+    "test_crps mean": 13.38437099288377,
+    "test_crps std": 31.06169474832353,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2674.3671545495645,
+    "final_hyperparameters": [
+      9844.120203348575,
+      55.61053960478232,
+      39.98906575351,
+      1.6897089131762923
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.2724971147609878,
+    "test_rmse": 41.05737050106483,
+    "test_crps mean": 13.374399331238154,
+    "test_crps std": 30.72859091922087,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2676.6030402271977,
+    "final_hyperparameters": [
+      8703.45600886573,
+      56.2685139773895,
+      39.99749368349313,
+      1.5863288129816864
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.27323045520926675,
+    "test_rmse": 40.70288941109943,
+    "test_crps mean": 13.369595293150335,
+    "test_crps std": 30.393411554983196,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2679.5257595481644,
+    "final_hyperparameters": [
+      7552.504760371055,
+      56.69523150498887,
+      39.9945353220681,
+      1.6247825872826764
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.26132268350964777,
+    "test_rmse": 40.24257175863432,
+    "test_crps mean": 13.352821536734012,
+    "test_crps std": 29.9047647357775,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2683.5127037762672,
+    "final_hyperparameters": [
+      6507.085472743318,
+      56.7170348792396,
+      39.9875532126928,
+      1.569178509612208
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.2310482378392519,
+    "test_rmse": 39.80030585858181,
+    "test_crps mean": 13.341902794576818,
+    "test_crps std": 29.39089455099063,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2688.59187177962,
+    "final_hyperparameters": [
+      5765.2037493761745,
+      56.71863280318799,
+      39.983373004524694,
+      1.3464722388454469
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.23384040731419134,
+    "test_rmse": 39.43825303702952,
+    "test_crps mean": 13.356931996993591,
+    "test_crps std": 29.009396131241527,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2694.5744505691923,
+    "final_hyperparameters": [
+      5079.603699364932,
+      56.71947720261031,
+      39.99392587354747,
+      1.440307462702815
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.20960654441842633,
+    "test_rmse": 39.10593224807503,
+    "test_crps mean": 13.380247509717304,
+    "test_crps std": 28.626344871463303,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2701.541825215179,
+    "final_hyperparameters": [
+      4568.101918305736,
+      56.71213748618365,
+      39.99385619587279,
+      1.2716061394777953
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.20040223719425687,
+    "test_rmse": 38.84672750386152,
+    "test_crps mean": 13.423718649075832,
+    "test_crps std": 28.320016680199636,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2709.306731434281,
+    "final_hyperparameters": [
+      4145.137060052482,
+      56.71503127112725,
+      39.99848049745112,
+      1.25276998946268
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.17596485489507507,
+    "test_rmse": 38.636197900368145,
+    "test_crps mean": 13.480941222235199,
+    "test_crps std": 28.02860425821137,
+    "test_picp": 0.946,
+    "final_log_likelihood": -2717.799151113755,
+    "final_hyperparameters": [
+      3834.866443483392,
+      56.717572605767955,
+      39.99481801717255,
+      1.0976591603175647
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.13916810692401146,
+    "test_rmse": 38.47767520187345,
+    "test_crps mean": 13.55519469210392,
+    "test_crps std": 27.709817784494472,
+    "test_picp": 0.946,
+    "final_log_likelihood": -2726.8873576288856,
+    "final_hyperparameters": [
+      3670.772265294392,
+      56.718037938376945,
+      39.992037564850904,
+      0.8622094808735508
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.10622164851976758,
+    "test_rmse": 38.37920381184847,
+    "test_crps mean": 13.64744995655774,
+    "test_crps std": 27.500126957013514,
+    "test_picp": 0.946,
+    "final_log_likelihood": -2736.501514007332,
+    "final_hyperparameters": [
+      3475.090372240753,
+      56.71720569050086,
+      39.995870797696085,
+      0.652202631745447
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 50.0,
+    "trial": 6,
+    "seed": 37195,
+    "train_rmse": 0.002739542860010354,
+    "test_rmse": 38.27953983947611,
+    "test_crps mean": 13.747102530257234,
+    "test_crps std": 27.258713200665827,
+    "test_picp": 0.946,
+    "final_log_likelihood": -2746.432412244066,
+    "final_hyperparameters": [
+      3336.440578651498,
+      56.716696716490404,
+      39.99961882264638,
+      0.014217558124018481
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 4.6561549036828666e-05,
+    "test_rmse": 29.190484703812256,
+    "test_crps mean": 9.990732859194697,
+    "test_crps std": 19.630205827289494,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2662.6845334414197,
+    "final_hyperparameters": [
+      14790.917550547689,
+      17.51821902085667,
+      0.35930679325971226,
+      0.0002065711160152972
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.00033663712237946977,
+    "test_rmse": 29.20008491590581,
+    "test_crps mean": 9.991291929206294,
+    "test_crps std": 19.630263181144375,
+    "test_picp": 0.94,
+    "final_log_likelihood": -2662.7096298987185,
+    "final_hyperparameters": [
+      15208.945321036212,
+      17.516401764274377,
+      7.910275626714052,
+      0.0014948587778667033
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.00013524828970944963,
+    "test_rmse": 29.18696493059715,
+    "test_crps mean": 9.990993792717235,
+    "test_crps std": 19.654776916677342,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2662.68774132149,
+    "final_hyperparameters": [
+      14662.673751480179,
+      17.46931869050458,
+      15.307448056029592,
+      0.0005966765445917233
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 2.3274400798015987e-06,
+    "test_rmse": 29.188379970472305,
+    "test_crps mean": 9.990647446424878,
+    "test_crps std": 19.641443170646188,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2662.6770783800425,
+    "final_hyperparameters": [
+      14679.018762688152,
+      17.506435254096825,
+      22.7446444672481,
+      1.0288340988928724e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 7.827459448703721e-05,
+    "test_rmse": 29.204161906907853,
+    "test_crps mean": 9.992165162862282,
+    "test_crps std": 19.63972986002938,
+    "test_picp": 0.94,
+    "final_log_likelihood": -2662.7037480552476,
+    "final_hyperparameters": [
+      15518.874942495837,
+      17.474909395120935,
+      30.82923472097764,
+      0.00034639483253773307
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.00016884599912522959,
+    "test_rmse": 29.18731115150331,
+    "test_crps mean": 9.990646572357688,
+    "test_crps std": 19.652853719268432,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2662.6899111861985,
+    "final_hyperparameters": [
+      14601.110966045002,
+      17.493690163115836,
+      37.65527511611086,
+      0.0007445988290797345
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.00029568038886609133,
+    "test_rmse": 29.07013608381254,
+    "test_crps mean": 9.993732799554325,
+    "test_crps std": 19.653742204679734,
+    "test_picp": 0.94,
+    "final_log_likelihood": -2664.0777771138532,
+    "final_hyperparameters": [
+      10592.275071841024,
+      17.55053695177405,
+      39.99475803119779,
+      0.0013193713272814378
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.0002805381264015037,
+    "test_rmse": 28.944383340463556,
+    "test_crps mean": 10.046448988121462,
+    "test_crps std": 19.62861769243314,
+    "test_picp": 0.946,
+    "final_log_likelihood": -2670.386135321394,
+    "final_hyperparameters": [
+      7342.91740469425,
+      17.6145944759688,
+      39.99797743157105,
+      0.0013156928358837305
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.00010937513947390483,
+    "test_rmse": 28.97384364152741,
+    "test_crps mean": 10.169428788243794,
+    "test_crps std": 19.71423029182709,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2681.4415654201903,
+    "final_hyperparameters": [
+      5470.992894575931,
+      17.717518864224523,
+      39.992572398827775,
+      0.0005421062853709913
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 7.272710875801489e-05,
+    "test_rmse": 29.21553281347666,
+    "test_crps mean": 10.37955955550812,
+    "test_crps std": 19.929698977093224,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2696.7476814350325,
+    "final_hyperparameters": [
+      4363.466307211551,
+      17.739547858352466,
+      39.9945610487794,
+      0.00039271043031696706
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.25745227842475876,
+    "test_rmse": 32.55403727894448,
+    "test_crps mean": 11.33786909885759,
+    "test_crps std": 22.747753310206456,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2727.9514780178492,
+    "final_hyperparameters": [
+      10078.164053807675,
+      47.82772279409885,
+      38.792287014121456,
+      1.5892215345673892
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.24981759721389651,
+    "test_rmse": 32.580461866007724,
+    "test_crps mean": 11.371242066159871,
+    "test_crps std": 22.757771579698193,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2728.3405181206595,
+    "final_hyperparameters": [
+      9141.053333022573,
+      48.57175613764959,
+      39.95720615605494,
+      1.5249694598687662
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.2500555414775466,
+    "test_rmse": 32.560077939709075,
+    "test_crps mean": 11.41164125941299,
+    "test_crps std": 22.73282693211444,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2730.114141464671,
+    "final_hyperparameters": [
+      7869.2652618194115,
+      49.309094149737064,
+      39.98758643266578,
+      1.5667170347209431
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.24855900499805586,
+    "test_rmse": 32.583243631190626,
+    "test_crps mean": 11.460864795187558,
+    "test_crps std": 22.761007977102455,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2733.000021495904,
+    "final_hyperparameters": [
+      7095.107927245495,
+      50.44931467836777,
+      39.99623413694565,
+      1.548408407145128
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.24544788783401608,
+    "test_rmse": 32.55346976612757,
+    "test_crps mean": 11.504116258578332,
+    "test_crps std": 22.73271640325071,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2736.773272366244,
+    "final_hyperparameters": [
+      6333.062336020288,
+      51.21896615222951,
+      39.99542614091483,
+      1.5436877160040865
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.23688536001210828,
+    "test_rmse": 32.57909887329773,
+    "test_crps mean": 11.558722713441131,
+    "test_crps std": 22.699582280108153,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2741.050196986891,
+    "final_hyperparameters": [
+      6089.477940070967,
+      52.49285092674423,
+      39.97951697807365,
+      1.468143030790165
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.2357603299351924,
+    "test_rmse": 32.584942217039355,
+    "test_crps mean": 11.613023300482539,
+    "test_crps std": 22.644730061202253,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2745.6872235892743,
+    "final_hyperparameters": [
+      5825.934633411816,
+      53.50715317892845,
+      39.99645231171087,
+      1.4946889693494314
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.231130379488516,
+    "test_rmse": 32.591889841428774,
+    "test_crps mean": 11.669918607581959,
+    "test_crps std": 22.578549234692442,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2750.6275877420985,
+    "final_hyperparameters": [
+      5647.481596928672,
+      54.50796439520447,
+      39.9974259234955,
+      1.4886833520494065
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.23570354136007982,
+    "test_rmse": 32.62443111180151,
+    "test_crps mean": 11.71641466929632,
+    "test_crps std": 22.6288560715281,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2755.6459203783725,
+    "final_hyperparameters": [
+      5439.151144021947,
+      55.74963528354718,
+      39.98976963630551,
+      1.5172030056173575
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.22575292463523466,
+    "test_rmse": 32.62700717150564,
+    "test_crps mean": 11.770666354683275,
+    "test_crps std": 22.564893595685408,
+    "test_picp": 0.954,
+    "final_log_likelihood": -2760.5853908190225,
+    "final_hyperparameters": [
+      5314.818258391635,
+      56.669819105349475,
+      39.99241320408876,
+      1.4508108751453102
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.20000273749904557,
+    "test_rmse": 32.595080091096094,
+    "test_crps mean": 11.83240281151505,
+    "test_crps std": 22.511100726931442,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2766.0594347532924,
+    "final_hyperparameters": [
+      4786.819074448082,
+      56.70854898370787,
+      39.99783318998226,
+      1.24930509416251
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.19529283439368791,
+    "test_rmse": 32.621007269717275,
+    "test_crps mean": 11.932040590308537,
+    "test_crps std": 22.421887003187162,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2772.389498616691,
+    "final_hyperparameters": [
+      4464.830847267469,
+      56.71571103490856,
+      39.98222760383564,
+      1.3142140551972181
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.1261245759437915,
+    "test_rmse": 32.65814539966001,
+    "test_crps mean": 12.037443249805003,
+    "test_crps std": 22.35835341045172,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2779.293790048324,
+    "final_hyperparameters": [
+      4162.226455025666,
+      56.71818179868171,
+      39.995099109812664,
+      0.7471731304225422
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.0006508500317672568,
+    "test_rmse": 32.68349054117421,
+    "test_crps mean": 12.172960591281345,
+    "test_crps std": 22.189318797238403,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2785.736251693436,
+    "final_hyperparameters": [
+      4005.470368370181,
+      56.70992169342067,
+      39.99581114175368,
+      0.0027884885691165096
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 50.0,
+    "trial": 7,
+    "seed": 87499,
+    "train_rmse": 0.001147211208069333,
+    "test_rmse": 32.872821300215335,
+    "test_crps mean": 12.324779867215767,
+    "test_crps std": 22.28919445678592,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2793.3078646608647,
+    "final_hyperparameters": [
+      3734.7922645173385,
+      56.71952762270126,
+      39.99501267702299,
+      0.005311447964471583
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 3.4601880664551905e-06,
+    "test_rmse": 26.431480771409177,
+    "test_crps mean": 9.971659421145915,
+    "test_crps std": 17.841254828893042,
+    "test_picp": 0.924,
+    "final_log_likelihood": -2632.1112242645386,
+    "final_hyperparameters": [
+      10805.419922960631,
+      49.94957890743851,
+      0.1909243449212923,
+      1.461960340609636e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 1.8703234886989254e-05,
+    "test_rmse": 26.421224434205,
+    "test_crps mean": 9.964704401663933,
+    "test_crps std": 17.84238470094588,
+    "test_picp": 0.922,
+    "final_log_likelihood": -2632.1112637476667,
+    "final_hyperparameters": [
+      10904.425733829034,
+      49.76378589819671,
+      4.203070516408907,
+      7.910843943825796e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 4.4756524829852175e-06,
+    "test_rmse": 26.4358895518045,
+    "test_crps mean": 9.971609580572803,
+    "test_crps std": 17.84442706159904,
+    "test_picp": 0.924,
+    "final_log_likelihood": -2632.103415569268,
+    "final_hyperparameters": [
+      10655.879179167212,
+      49.84917905182833,
+      8.117441037165163,
+      1.8965640224521962e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 5.752011530226437e-07,
+    "test_rmse": 25.920699249376796,
+    "test_crps mean": 9.45737871949783,
+    "test_crps std": 17.15973951935871,
+    "test_picp": 0.926,
+    "final_log_likelihood": -2634.502113970269,
+    "final_hyperparameters": [
+      11088.629651230236,
+      30.945437388676126,
+      19.217675917313375,
+      3.208462659110012e-06
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 5.629979210666894e-05,
+    "test_rmse": 26.43417843175126,
+    "test_crps mean": 9.970443532829364,
+    "test_crps std": 17.854827406944718,
+    "test_picp": 0.924,
+    "final_log_likelihood": -2632.109546174247,
+    "final_hyperparameters": [
+      10623.126699512766,
+      49.82164201328791,
+      16.070403648355427,
+      0.00023778530061946412
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 0.00012965007717015352,
+    "test_rmse": 26.434355184943776,
+    "test_crps mean": 9.969317445559529,
+    "test_crps std": 17.827789342005218,
+    "test_picp": 0.922,
+    "final_log_likelihood": -2632.1452887314417,
+    "final_hyperparameters": [
+      10709.649275254225,
+      49.73715932936017,
+      20.063356015117584,
+      0.0005568128403536932
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 9.911370329588138e-05,
+    "test_rmse": 26.423357119030136,
+    "test_crps mean": 9.963480578233746,
+    "test_crps std": 17.830335886354383,
+    "test_picp": 0.922,
+    "final_log_likelihood": -2632.139666452575,
+    "final_hyperparameters": [
+      10854.031779587734,
+      49.63797080499659,
+      24.260001947374576,
+      0.00042420599696590955
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 0.0002526976471301346,
+    "test_rmse": 26.418553241118353,
+    "test_crps mean": 9.961257530945694,
+    "test_crps std": 17.858060166959838,
+    "test_picp": 0.922,
+    "final_log_likelihood": -2632.1560058413806,
+    "final_hyperparameters": [
+      10804.867242339125,
+      49.62374697171934,
+      28.37760812978631,
+      0.0010700955350291252
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 0.00016335180707536197,
+    "test_rmse": 26.422157900882862,
+    "test_crps mean": 9.966595574140062,
+    "test_crps std": 17.861527773982306,
+    "test_picp": 0.922,
+    "final_log_likelihood": -2632.1463226912824,
+    "final_hyperparameters": [
+      10842.354546670627,
+      49.859722649428484,
+      32.20932009580158,
+      0.0006856749268786544
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 0.00015723095896343062,
+    "test_rmse": 26.43568317038026,
+    "test_crps mean": 9.969900932359657,
+    "test_crps std": 17.85803907604148,
+    "test_picp": 0.922,
+    "final_log_likelihood": -2632.127732884571,
+    "final_hyperparameters": [
+      10547.852126853133,
+      49.756816111550066,
+      35.91794710596517,
+      0.0006663864250642249
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 5.122255437987971e-06,
+    "test_rmse": 26.432331085403096,
+    "test_crps mean": 9.968304545793432,
+    "test_crps std": 17.851593374570594,
+    "test_picp": 0.922,
+    "final_log_likelihood": -2632.1018526177363,
+    "final_hyperparameters": [
+      10627.77055620082,
+      49.733849114493346,
+      39.992166525781414,
+      2.1673858029203075e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 4.7269485540487215e-05,
+    "test_rmse": 26.55804123152998,
+    "test_crps mean": 10.032986303896006,
+    "test_crps std": 17.88866450747438,
+    "test_picp": 0.928,
+    "final_log_likelihood": -2632.884454025845,
+    "final_hyperparameters": [
+      9166.438563973235,
+      50.889780461978695,
+      39.97041526074345,
+      0.00019997284579265084
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 1.8157449931710242e-05,
+    "test_rmse": 26.70071455978956,
+    "test_crps mean": 10.099803809585286,
+    "test_crps std": 17.90180026476335,
+    "test_picp": 0.93,
+    "final_log_likelihood": -2634.9478247962834,
+    "final_hyperparameters": [
+      8201.583900429017,
+      51.88947194161484,
+      39.979711338926734,
+      7.839646745821938e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 0.0001520395917255429,
+    "test_rmse": 26.85129952226853,
+    "test_crps mean": 10.1670355010288,
+    "test_crps std": 17.973230696387265,
+    "test_picp": 0.932,
+    "final_log_likelihood": -2637.9629586034944,
+    "final_hyperparameters": [
+      7359.068335712072,
+      52.87007508053088,
+      39.997066953682236,
+      0.000662996211465483
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 1.2863550472236934e-05,
+    "test_rmse": 26.989341814568544,
+    "test_crps mean": 10.232269142261837,
+    "test_crps std": 18.032980505407487,
+    "test_picp": 0.932,
+    "final_log_likelihood": -2641.66046712926,
+    "final_hyperparameters": [
+      6837.267462740419,
+      53.9767508968787,
+      39.998177593815036,
+      5.59680136600349e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 8.270265711553357e-05,
+    "test_rmse": 27.11895971752196,
+    "test_crps mean": 10.294121220362712,
+    "test_crps std": 18.130469695032534,
+    "test_picp": 0.932,
+    "final_log_likelihood": -2645.8639823816434,
+    "final_hyperparameters": [
+      6344.967373002379,
+      55.076398718232255,
+      39.991858261819566,
+      0.00035851556815025276
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 5.8587863741431975e-05,
+    "test_rmse": 27.23798711041082,
+    "test_crps mean": 10.35489175721107,
+    "test_crps std": 18.20079290566351,
+    "test_picp": 0.934,
+    "final_log_likelihood": -2650.29299293578,
+    "final_hyperparameters": [
+      6022.411379032303,
+      56.15597364141909,
+      39.990199813099814,
+      0.0002547310750138365
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 4.153548379844802e-05,
+    "test_rmse": 27.471598158473828,
+    "test_crps mean": 10.445661893731149,
+    "test_crps std": 18.358820354869582,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2655.1653192916206,
+    "final_hyperparameters": [
+      5431.161337279249,
+      56.46506055216115,
+      39.992170381723554,
+      0.00018532898734235914
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 0.00010725018634346677,
+    "test_rmse": 27.779346252991957,
+    "test_crps mean": 10.558822278346069,
+    "test_crps std": 18.610705773142026,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2661.2278285817692,
+    "final_hyperparameters": [
+      4785.4237599591725,
+      56.471355316506376,
+      39.998275240705425,
+      0.0004941245113707637
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 1.802186156720856e-05,
+    "test_rmse": 28.11792536096544,
+    "test_crps mean": 10.691037978232789,
+    "test_crps std": 18.844592224151015,
+    "test_picp": 0.94,
+    "final_log_likelihood": -2668.386543954861,
+    "final_hyperparameters": [
+      4351.308428733784,
+      56.46886407717917,
+      39.99386201873522,
+      8.638770549573849e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 3.1764727744840206e-06,
+    "test_rmse": 28.47789570902834,
+    "test_crps mean": 10.834562662457996,
+    "test_crps std": 19.116012230645477,
+    "test_picp": 0.94,
+    "final_log_likelihood": -2676.489130887772,
+    "final_hyperparameters": [
+      3974.0130200542044,
+      56.4727086577813,
+      39.99931157644157,
+      1.5878150090742338e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 3.8198001806647235e-05,
+    "test_rmse": 28.862867734828374,
+    "test_crps mean": 10.990321942577728,
+    "test_crps std": 19.43009347906791,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2685.5505031511543,
+    "final_hyperparameters": [
+      3627.554787784582,
+      56.471160091011214,
+      39.992036375846666,
+      0.00019918054468526236
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 8.072027240920626e-05,
+    "test_rmse": 29.26178075211874,
+    "test_crps mean": 11.165639574617511,
+    "test_crps std": 19.6773008229582,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2695.275812354106,
+    "final_hyperparameters": [
+      3442.9604502966395,
+      56.47377855255236,
+      39.99885035533225,
+      0.0004537607470007643
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 5.760840630270266e-06,
+    "test_rmse": 29.67871878983388,
+    "test_crps mean": 11.352803830209256,
+    "test_crps std": 19.952365785152647,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2705.7105286490637,
+    "final_hyperparameters": [
+      3266.04413084127,
+      56.47133633961257,
+      39.999276096697685,
+      3.420084160055126e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 50.0,
+    "trial": 8,
+    "seed": 44132,
+    "train_rmse": 0.0001272588652843331,
+    "test_rmse": 30.10718691798016,
+    "test_crps mean": 11.543828214568807,
+    "test_crps std": 20.284294922101267,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2716.6274344960693,
+    "final_hyperparameters": [
+      3056.0077228229493,
+      56.47273219895029,
+      39.999477688110915,
+      0.0008039054726127759
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 4.895034276302542e-05,
+    "test_rmse": 29.86240677358237,
+    "test_crps mean": 10.205272324991933,
+    "test_crps std": 20.21602311314452,
+    "test_picp": 0.912,
+    "final_log_likelihood": -2641.9832865984404,
+    "final_hyperparameters": [
+      13141.126861939381,
+      22.0916719465471,
+      0.33111858744203815,
+      0.00022062960691116018
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.0004238208062687153,
+    "test_rmse": 29.860819601762277,
+    "test_crps mean": 10.205415305134636,
+    "test_crps std": 20.230899889259863,
+    "test_picp": 0.91,
+    "final_log_likelihood": -2642.018489462464,
+    "final_hyperparameters": [
+      12932.151255574194,
+      22.156216714352126,
+      7.192531345133899,
+      0.0018964899390434553
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.0004877507014267485,
+    "test_rmse": 29.86917934071442,
+    "test_crps mean": 10.207750882765056,
+    "test_crps std": 20.25822449116405,
+    "test_picp": 0.912,
+    "final_log_likelihood": -2642.015037191299,
+    "final_hyperparameters": [
+      12517.602077287738,
+      22.028610002456755,
+      13.897273851416266,
+      0.002198114645821647
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 1.2166408084300838e-05,
+    "test_rmse": 29.865166127744686,
+    "test_crps mean": 10.206059941898681,
+    "test_crps std": 20.21803865022101,
+    "test_picp": 0.912,
+    "final_log_likelihood": -2641.975722912339,
+    "final_hyperparameters": [
+      12749.593711394526,
+      22.125244237034757,
+      20.73412172078317,
+      5.5122617679259633e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.00012099747927511411,
+    "test_rmse": 29.866384949441613,
+    "test_crps mean": 10.206263863351229,
+    "test_crps std": 20.21163753373161,
+    "test_picp": 0.914,
+    "final_log_likelihood": -2641.9877897192337,
+    "final_hyperparameters": [
+      12669.516688734118,
+      22.135111302513987,
+      27.43519675766632,
+      0.0005509845256259638
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.00047766026860993,
+    "test_rmse": 29.872665649440137,
+    "test_crps mean": 10.208988144417305,
+    "test_crps std": 20.259285711495334,
+    "test_picp": 0.914,
+    "final_log_likelihood": -2642.023342495565,
+    "final_hyperparameters": [
+      12137.828975061653,
+      22.091435007845774,
+      33.833135671358804,
+      0.002163262471320593
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.0005179801654127035,
+    "test_rmse": 28.806064150933818,
+    "test_crps mean": 10.5164751835707,
+    "test_crps std": 18.604020421353557,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2656.84133647909,
+    "final_hyperparameters": [
+      12050.93345525267,
+      51.5772602914833,
+      22.529293804611918,
+      0.0021024943053751244
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 7.932076202812825e-05,
+    "test_rmse": 28.823035948698305,
+    "test_crps mean": 10.523338479391741,
+    "test_crps std": 18.61080105118019,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2656.835878160505,
+    "final_hyperparameters": [
+      12481.320132884255,
+      51.26102132163999,
+      26.859949447948885,
+      0.00032200657806935595
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.00041294860387937473,
+    "test_rmse": 28.78511216445331,
+    "test_crps mean": 10.510696841926118,
+    "test_crps std": 18.594729096333797,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2656.850220249718,
+    "final_hyperparameters": [
+      12265.023939735023,
+      51.646405322427,
+      30.152238188266757,
+      0.001658794408656128
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 2.683790539744526e-05,
+    "test_rmse": 28.817944469134257,
+    "test_crps mean": 10.520660771819669,
+    "test_crps std": 18.615944522914713,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2656.798646928576,
+    "final_hyperparameters": [
+      12060.475968459563,
+      51.46066383123564,
+      33.85857918380067,
+      0.00010839763655301482
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.0001546489683531122,
+    "test_rmse": 28.816652811780322,
+    "test_crps mean": 10.520753465596625,
+    "test_crps std": 18.637669763136024,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2656.817170201934,
+    "final_hyperparameters": [
+      11847.5441297043,
+      51.51938458986952,
+      37.409299376050924,
+      0.0006196468030923441
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 2.86281274504146e-05,
+    "test_rmse": 28.83876128043879,
+    "test_crps mean": 10.52530295798137,
+    "test_crps std": 18.64643676219246,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2656.912631963967,
+    "final_hyperparameters": [
+      11231.77442566061,
+      51.69928072165028,
+      39.97985698878414,
+      0.00011566331568690913
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.00020088680781635968,
+    "test_rmse": 28.952340525250435,
+    "test_crps mean": 10.558671400252596,
+    "test_crps std": 18.80694351934314,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2658.3120070146306,
+    "final_hyperparameters": [
+      9239.932334940648,
+      52.26904889629917,
+      39.94931611856781,
+      0.0008108521446521522
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.0001573979809930753,
+    "test_rmse": 29.04319414285436,
+    "test_crps mean": 10.58888791746945,
+    "test_crps std": 18.865958343099354,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2660.8323413622165,
+    "final_hyperparameters": [
+      8351.290301550587,
+      53.1838838700554,
+      39.997391815111634,
+      0.0006471598863946326
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.0007279337371741439,
+    "test_rmse": 29.206885096936034,
+    "test_crps mean": 10.647151379714002,
+    "test_crps std": 19.026876881644657,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2664.4503380697797,
+    "final_hyperparameters": [
+      7415.733153817069,
+      53.87299895055881,
+      39.99999755840146,
+      0.003067173790785027
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.00018952819147417666,
+    "test_rmse": 29.33827379661632,
+    "test_crps mean": 10.702297922707363,
+    "test_crps std": 19.158949439939033,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2668.794890570892,
+    "final_hyperparameters": [
+      6825.532495823398,
+      54.822735050181564,
+      39.985260883859056,
+      0.0007966065796809474
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.00011409495111666963,
+    "test_rmse": 29.483271583808293,
+    "test_crps mean": 10.765903659842701,
+    "test_crps std": 19.287663016936705,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2673.6701464171992,
+    "final_hyperparameters": [
+      6379.351231180073,
+      55.72281398940701,
+      39.980469376657254,
+      0.00048609447672287587
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.00035132005571257574,
+    "test_rmse": 29.696839916200734,
+    "test_crps mean": 10.85229329727474,
+    "test_crps std": 19.47586006181887,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2678.895898653964,
+    "final_hyperparameters": [
+      5891.846964188793,
+      56.306568417252834,
+      39.990176143467174,
+      0.0015462193611774921
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 8.956432410731569e-05,
+    "test_rmse": 30.01746180152509,
+    "test_crps mean": 10.973374372905857,
+    "test_crps std": 19.781867473682954,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2684.8022352008156,
+    "final_hyperparameters": [
+      5289.597389168979,
+      56.47247539526809,
+      39.99811178746168,
+      0.00040755377795687053
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.00010568332857773238,
+    "test_rmse": 30.39797280824722,
+    "test_crps mean": 11.120005004165767,
+    "test_crps std": 20.125957787295803,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2691.816201398788,
+    "final_hyperparameters": [
+      4780.195075227821,
+      56.47342785709039,
+      39.999266546438776,
+      0.0005076136490194116
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 1.3866242964407252e-05,
+    "test_rmse": 30.79411726955953,
+    "test_crps mean": 11.27925648909598,
+    "test_crps std": 20.487418428613665,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2699.770271173526,
+    "final_hyperparameters": [
+      4358.428505200602,
+      56.46847969259167,
+      39.999244408128185,
+      7.018569993189061e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.0002222010936218257,
+    "test_rmse": 31.195425964863155,
+    "test_crps mean": 11.449256393986852,
+    "test_crps std": 20.836655615473198,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2708.561807034258,
+    "final_hyperparameters": [
+      4036.658296491718,
+      56.47203118943256,
+      39.998585679807455,
+      0.001199619449873346
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 3.834781044825067e-06,
+    "test_rmse": 31.600790164669206,
+    "test_crps mean": 11.628703280380618,
+    "test_crps std": 21.187294366064716,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2718.0687875848075,
+    "final_hyperparameters": [
+      3766.3174885569024,
+      56.46802702827783,
+      39.999753087944754,
+      2.191654979455393e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.00018265533635639,
+    "test_rmse": 32.001965388216696,
+    "test_crps mean": 11.811446799876908,
+    "test_crps std": 21.55948757424562,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2728.17838106273,
+    "final_hyperparameters": [
+      3501.801262920664,
+      56.47365829084771,
+      39.99930182509287,
+      0.0011009125873870929
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 50.0,
+    "trial": 9,
+    "seed": 60264,
+    "train_rmse": 0.00011273810568272173,
+    "test_rmse": 32.401321533266476,
+    "test_crps mean": 12.003717750292088,
+    "test_crps std": 21.895584497655104,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2738.8644569608714,
+    "final_hyperparameters": [
+      3311.210868856637,
+      56.47247910640823,
+      39.997257123938184,
+      0.0007213920722302092
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 0.0003236023764087031,
+    "test_rmse": 29.622670586864327,
+    "test_crps mean": 9.928098556917353,
+    "test_crps std": 20.51540117915837,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2687.286059916352,
+    "final_hyperparameters": [
+      14257.049829071795,
+      17.50824017397727,
+      0.3524240890924979,
+      0.0019418469476990552
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 0.0005027307776568861,
+    "test_rmse": 29.64399575350353,
+    "test_crps mean": 9.935460790533474,
+    "test_crps std": 20.49443153186976,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2687.2319971238903,
+    "final_hyperparameters": [
+      14129.609023197962,
+      17.576921492703292,
+      7.613637330283458,
+      0.0030647577014040195
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 6.069446052979268e-05,
+    "test_rmse": 29.607202201343615,
+    "test_crps mean": 9.934175253636507,
+    "test_crps std": 20.41593691922541,
+    "test_picp": 0.938,
+    "final_log_likelihood": -2687.2553262851848,
+    "final_hyperparameters": [
+      14147.809637160739,
+      17.53124183252699,
+      14.789371132621078,
+      0.0003772410144735616
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 6.064046506339295e-05,
+    "test_rmse": 29.612528358536455,
+    "test_crps mean": 9.933602385797906,
+    "test_crps std": 20.46075610934331,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2687.1908259081856,
+    "final_hyperparameters": [
+      13846.026023186161,
+      17.548148978996295,
+      21.963409273101668,
+      0.00037096965342442445
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 2.2691198145428684e-05,
+    "test_rmse": 29.626038630719375,
+    "test_crps mean": 9.936835122535827,
+    "test_crps std": 20.481167030869102,
+    "test_picp": 0.934,
+    "final_log_likelihood": -2687.18038085189,
+    "final_hyperparameters": [
+      13611.635216607188,
+      17.588632992859544,
+      29.02649834148405,
+      0.0001381959775343944
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 1.6764197001988406e-05,
+    "test_rmse": 29.603380718304372,
+    "test_crps mean": 9.930196586892007,
+    "test_crps std": 20.46589641494715,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2687.2055726975436,
+    "final_hyperparameters": [
+      13957.964850462158,
+      17.515650365729805,
+      36.54555528435352,
+      0.00010202416725046959
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 0.00022129353826757896,
+    "test_rmse": 29.523768394709247,
+    "test_crps mean": 9.957580540989431,
+    "test_crps std": 20.374862111107092,
+    "test_picp": 0.938,
+    "final_log_likelihood": -2687.938383171321,
+    "final_hyperparameters": [
+      10974.301553589816,
+      17.615463948879466,
+      39.99913709087153,
+      0.0014124546260481097
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 4.6459472987339084e-05,
+    "test_rmse": 29.450720456035903,
+    "test_crps mean": 10.066158428389118,
+    "test_crps std": 20.251869098331778,
+    "test_picp": 0.942,
+    "final_log_likelihood": -2693.643102404182,
+    "final_hyperparameters": [
+      7554.081873411953,
+      17.578075867839907,
+      39.99003096586563,
+      0.00033533436536004047
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 0.0001163555474451566,
+    "test_rmse": 29.752461550010327,
+    "test_crps mean": 10.278861720242435,
+    "test_crps std": 20.45677596265087,
+    "test_picp": 0.94,
+    "final_log_likelihood": -2704.4615825891083,
+    "final_hyperparameters": [
+      5655.063770627603,
+      17.78594032499805,
+      39.990097045272506,
+      0.0009537620434043603
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 1.4941371298212043e-05,
+    "test_rmse": 30.184296507185724,
+    "test_crps mean": 10.557300420835174,
+    "test_crps std": 20.75079451783848,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2719.770654852291,
+    "final_hyperparameters": [
+      4571.068044857413,
+      17.868445960624314,
+      39.994093176491134,
+      0.00014275082491543856
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 5.2336935324182995e-05,
+    "test_rmse": 32.486818742515304,
+    "test_crps mean": 11.199729849042775,
+    "test_crps std": 22.377408394987818,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2731.9826456242245,
+    "final_hyperparameters": [
+      4682.1667820806615,
+      30.55956188950738,
+      39.99781805950319,
+      0.0002942194754895766
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 9.367518911637952e-06,
+    "test_rmse": 35.69493305799771,
+    "test_crps mean": 11.835555389242126,
+    "test_crps std": 25.167476350255882,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2747.18643812606,
+    "final_hyperparameters": [
+      11048.883210036613,
+      49.620772752782656,
+      39.974893683383165,
+      3.459034660924232e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 0.00011961604550033449,
+    "test_rmse": 35.40539829691667,
+    "test_crps mean": 11.87148434738507,
+    "test_crps std": 24.754293322886554,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2751.0602770542914,
+    "final_hyperparameters": [
+      10087.348850385228,
+      50.914468591807434,
+      39.993299438682634,
+      0.0004520602059461254
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 6.963639197653722e-06,
+    "test_rmse": 35.16242546726683,
+    "test_crps mean": 11.916079116383397,
+    "test_crps std": 24.4174919689042,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2755.684346197913,
+    "final_hyperparameters": [
+      9218.834339480207,
+      52.1024213057931,
+      39.99364443215913,
+      2.604372395076382e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 0.0003553946937448229,
+    "test_rmse": 34.93417739667576,
+    "test_crps mean": 11.96514300486384,
+    "test_crps std": 24.093645233013955,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2760.796215225457,
+    "final_hyperparameters": [
+      8433.566717100912,
+      53.05714692547665,
+      39.99719223002212,
+      0.0013860625410595517
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 2.5520355737094004e-05,
+    "test_rmse": 34.787269471892316,
+    "test_crps mean": 12.020412771591328,
+    "test_crps std": 23.871613667189035,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2766.1875901501176,
+    "final_hyperparameters": [
+      7901.547414906032,
+      54.20883203059806,
+      39.986967962658184,
+      9.589739051385493e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 2.5030443439081152e-05,
+    "test_rmse": 34.69304654990691,
+    "test_crps mean": 12.079649936665625,
+    "test_crps std": 23.678476907805052,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2771.7327156168117,
+    "final_hyperparameters": [
+      7635.037467847811,
+      55.44549633637136,
+      39.968687854633345,
+      9.458208223822595e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 1.8298811803333117e-05,
+    "test_rmse": 34.59778239729017,
+    "test_crps mean": 12.137247914546172,
+    "test_crps std": 23.49825233217056,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2777.1010237331016,
+    "final_hyperparameters": [
+      7334.358471584157,
+      56.47190472949622,
+      39.9997721522481,
+      6.974050899710704e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 0.00018638201967620188,
+    "test_rmse": 34.374594614203374,
+    "test_crps mean": 12.207590611180233,
+    "test_crps std": 23.19433192513643,
+    "test_picp": 0.966,
+    "final_log_likelihood": -2782.961101241826,
+    "final_hyperparameters": [
+      6469.9023895757855,
+      56.45955080830326,
+      39.99809189160679,
+      0.0007443426412034881
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 0.00010193684098259907,
+    "test_rmse": 34.226279776631216,
+    "test_crps mean": 12.302126889106072,
+    "test_crps std": 22.918527302422227,
+    "test_picp": 0.968,
+    "final_log_likelihood": -2789.527202614115,
+    "final_hyperparameters": [
+      5862.728555058828,
+      56.46771655568675,
+      39.98839992269875,
+      0.00042290196243222056
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 2.5081793420214328e-05,
+    "test_rmse": 34.14852610994564,
+    "test_crps mean": 12.41573165959642,
+    "test_crps std": 22.715364789448714,
+    "test_picp": 0.966,
+    "final_log_likelihood": -2796.7109007310887,
+    "final_hyperparameters": [
+      5359.462825914496,
+      56.46792286044253,
+      39.99408438367991,
+      0.0001083795514675856
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 5.472155963907362e-05,
+    "test_rmse": 34.1372258030174,
+    "test_crps mean": 12.5458894876337,
+    "test_crps std": 22.591882157949875,
+    "test_picp": 0.966,
+    "final_log_likelihood": -2804.469826959754,
+    "final_hyperparameters": [
+      4923.492086685903,
+      56.47227414976229,
+      39.998707763781226,
+      0.0002486943799571151
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 4.431005478393293e-05,
+    "test_rmse": 34.18785823870348,
+    "test_crps mean": 12.695110901156648,
+    "test_crps std": 22.520471886688927,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2812.809664234028,
+    "final_hyperparameters": [
+      4572.659933290794,
+      56.47341282324488,
+      39.9903081965578,
+      0.00021238897826059144
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 0.0003386376737213801,
+    "test_rmse": 34.294222122847174,
+    "test_crps mean": 12.85883918549839,
+    "test_crps std": 22.50436303196982,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2821.5745595055055,
+    "final_hyperparameters": [
+      4285.2357178342645,
+      56.47164447082818,
+      39.99712189867023,
+      0.0017733218434239362
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 50.0,
+    "trial": 10,
+    "seed": 16024,
+    "train_rmse": 0.00031420827404458825,
+    "test_rmse": 34.451741745878984,
+    "test_crps mean": 13.039559622659908,
+    "test_crps std": 22.525736507193706,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2830.764793002931,
+    "final_hyperparameters": [
+      4060.5825344810146,
+      56.4720129780264,
+      39.98925028171573,
+      0.0017520274141586967
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.004112039485687206,
+    "test_rmse": 30.128879255262,
+    "test_crps mean": 10.145564497773028,
+    "test_crps std": 20.548517887038827,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2672.5055320983474,
+    "final_hyperparameters": [
+      18320.592826856824,
+      19.093281274476404,
+      0.3756446330408387,
+      0.01858937066168842
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.005295917402121928,
+    "test_rmse": 30.124242041456725,
+    "test_crps mean": 10.143691208644897,
+    "test_crps std": 20.53557097441144,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2672.520967513417,
+    "final_hyperparameters": [
+      18830.471200265398,
+      19.071063954411507,
+      8.258458890394989,
+      0.024108470599653486
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.000661516041234915,
+    "test_rmse": 30.131642047899877,
+    "test_crps mean": 10.146206177565633,
+    "test_crps std": 20.552594147524797,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2672.494119354269,
+    "final_hyperparameters": [
+      18020.643952462473,
+      19.09665781096555,
+      15.900438746869646,
+      0.0029574594105481466
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.01207129876301823,
+    "test_rmse": 30.124901034676533,
+    "test_crps mean": 10.136619914620853,
+    "test_crps std": 20.5650886399001,
+    "test_picp": 0.938,
+    "final_log_likelihood": -2672.540123185946,
+    "final_hyperparameters": [
+      17662.997217616416,
+      19.059935485875037,
+      23.526154433879704,
+      0.05636128760523107
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.000617373792183862,
+    "test_rmse": 30.125808395897646,
+    "test_crps mean": 10.14331507379231,
+    "test_crps std": 20.56950687956015,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2672.5149649510117,
+    "final_hyperparameters": [
+      18311.5511034535,
+      19.062025823266445,
+      31.70438198405342,
+      0.0027395831615555366
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.0019325702501239103,
+    "test_rmse": 30.12195250569977,
+    "test_crps mean": 10.1366745356919,
+    "test_crps std": 20.553614060856912,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2672.5143020775554,
+    "final_hyperparameters": [
+      18180.713329297025,
+      19.022393573496515,
+      39.32845416508789,
+      0.008735091393025307
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.0038097926347265172,
+    "test_rmse": 30.20575841484245,
+    "test_crps mean": 10.126921585701618,
+    "test_crps std": 20.768255061846666,
+    "test_picp": 0.944,
+    "final_log_likelihood": -2674.034733059607,
+    "final_hyperparameters": [
+      11587.410337945446,
+      18.844812134304256,
+      39.96049165674822,
+      0.018737520831022536
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 1.752293401515582e-05,
+    "test_rmse": 32.5129399991862,
+    "test_crps mean": 11.633242964363934,
+    "test_crps std": 22.889062547666413,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2706.5045696994125,
+    "final_hyperparameters": [
+      12516.60838725057,
+      53.49052083784409,
+      24.778474606297912,
+      0.00014465904251004247
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.0011054517289335898,
+    "test_rmse": 30.67355170570489,
+    "test_crps mean": 10.341403926575746,
+    "test_crps std": 21.415139574165288,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2688.636436970825,
+    "final_hyperparameters": [
+      5909.6318768064375,
+      18.66991790598264,
+      39.989380148503116,
+      0.006625671284536061
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.00016479429464473283,
+    "test_rmse": 32.54623244453827,
+    "test_crps mean": 11.646509758978437,
+    "test_crps std": 22.93479650178333,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2706.504185397065,
+    "final_hyperparameters": [
+      12024.096764788788,
+      53.667097358968824,
+      31.246276588572613,
+      0.0013601448284568107
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.00019159174002571355,
+    "test_rmse": 32.522444074044316,
+    "test_crps mean": 11.638996288636973,
+    "test_crps std": 22.91264357513646,
+    "test_picp": 0.934,
+    "final_log_likelihood": -2706.5207873655777,
+    "final_hyperparameters": [
+      12656.504624110414,
+      53.70593499093084,
+      35.26384774656154,
+      0.001576116397790095
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.00010165129750670529,
+    "test_rmse": 32.531643963870025,
+    "test_crps mean": 11.640809730439727,
+    "test_crps std": 22.947597990024267,
+    "test_picp": 0.934,
+    "final_log_likelihood": -2706.5010823203334,
+    "final_hyperparameters": [
+      12002.575148678152,
+      53.546609489855896,
+      38.42060852371647,
+      0.0008293260780307676
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.00023201046511650209,
+    "test_rmse": 32.61650852438995,
+    "test_crps mean": 11.672794975871147,
+    "test_crps std": 22.96429288183533,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2706.7502185398685,
+    "final_hyperparameters": [
+      11146.853708225128,
+      53.91384850351036,
+      39.99966248890097,
+      0.0019545614290574775
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 5.701739971741675e-05,
+    "test_rmse": 32.76654871926321,
+    "test_crps mean": 11.732522991291786,
+    "test_crps std": 23.078082188408054,
+    "test_picp": 0.934,
+    "final_log_likelihood": -2708.151185810467,
+    "final_hyperparameters": [
+      9408.93004856538,
+      54.404749852688056,
+      39.972836875989785,
+      0.0004871606506506865
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.00010150009582407906,
+    "test_rmse": 32.91133348421497,
+    "test_crps mean": 11.796150112559308,
+    "test_crps std": 23.24131492291598,
+    "test_picp": 0.934,
+    "final_log_likelihood": -2710.6752860286592,
+    "final_hyperparameters": [
+      8124.979653554736,
+      55.10142461570122,
+      39.976478173710674,
+      0.0008634942080094632
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 9.785827302918974e-05,
+    "test_rmse": 33.05244514667984,
+    "test_crps mean": 11.861055202760092,
+    "test_crps std": 23.314465967140237,
+    "test_picp": 0.936,
+    "final_log_likelihood": -2714.119502116982,
+    "final_hyperparameters": [
+      7242.659436483635,
+      55.59132526428149,
+      39.992982199616236,
+      0.0008575910518304752
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.00023118723044701696,
+    "test_rmse": 33.16700922870492,
+    "test_crps mean": 11.923386187632332,
+    "test_crps std": 23.40675624430577,
+    "test_picp": 0.934,
+    "final_log_likelihood": -2718.2082212604887,
+    "final_hyperparameters": [
+      6781.572006377217,
+      56.64431774510434,
+      39.99572497625256,
+      0.002043883572826921
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.00020847781492336915,
+    "test_rmse": 33.324978816083316,
+    "test_crps mean": 12.001050613857636,
+    "test_crps std": 23.496614709515672,
+    "test_picp": 0.94,
+    "final_log_likelihood": -2723.0941419991746,
+    "final_hyperparameters": [
+      5962.35780867748,
+      56.71015592686844,
+      39.99266293713278,
+      0.0019084082839144756
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 4.4424060583062344e-05,
+    "test_rmse": 33.504737503084975,
+    "test_crps mean": 12.094824744468074,
+    "test_crps std": 23.57257616885096,
+    "test_picp": 0.94,
+    "final_log_likelihood": -2729.0912986106064,
+    "final_hyperparameters": [
+      5343.4248372014845,
+      56.717612251499915,
+      39.996662031236106,
+      0.0004232520478941737
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 5.186066982519774e-06,
+    "test_rmse": 33.70700045683221,
+    "test_crps mean": 12.202687462222748,
+    "test_crps std": 23.704886612414732,
+    "test_picp": 0.946,
+    "final_log_likelihood": -2736.1265046922067,
+    "final_hyperparameters": [
+      4766.514109069656,
+      56.7161565534209,
+      39.995641843879554,
+      5.099342180336919e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 4.069916698640857e-05,
+    "test_rmse": 33.93241666204999,
+    "test_crps mean": 12.325646766864926,
+    "test_crps std": 23.86728404382418,
+    "test_picp": 0.944,
+    "final_log_likelihood": -2744.2200426768445,
+    "final_hyperparameters": [
+      4272.20455232478,
+      56.720009896365596,
+      39.98047619161916,
+      0.0004128903478557433
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.00010028751519570921,
+    "test_rmse": 34.17641485880532,
+    "test_crps mean": 12.467139676270328,
+    "test_crps std": 23.95405533075891,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2752.988222230749,
+    "final_hyperparameters": [
+      3997.521888267889,
+      56.718905995067374,
+      39.99850172824428,
+      0.0010864755922312952
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 0.00010079225618135198,
+    "test_rmse": 34.443486083468116,
+    "test_crps mean": 12.624077033821596,
+    "test_crps std": 24.071350483601076,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2762.590837938184,
+    "final_hyperparameters": [
+      3749.646154300368,
+      56.71799235321934,
+      39.99874347222989,
+      0.0011576214342152724
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 5.334587940782959e-06,
+    "test_rmse": 34.73104259944298,
+    "test_crps mean": 12.794900014893853,
+    "test_crps std": 24.21099289854939,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2772.8518234711423,
+    "final_hyperparameters": [
+      3534.957860168244,
+      56.71997564755891,
+      39.98887058345008,
+      6.448689781990424e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 50.0,
+    "trial": 11,
+    "seed": 41091,
+    "train_rmse": 9.520753225183161e-05,
+    "test_rmse": 35.03356001442201,
+    "test_crps mean": 12.974836447209894,
+    "test_crps std": 24.37955109331966,
+    "test_picp": 0.952,
+    "final_log_likelihood": -2783.5670567113084,
+    "final_hyperparameters": [
+      3338.8038572011283,
+      56.71714854811067,
+      39.99887153506309,
+      0.0012184930489418377
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 0.1,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 0.00010449863757364663,
+    "test_rmse": 29.205535538783963,
+    "test_crps mean": 9.939713930519295,
+    "test_crps std": 19.88488828435795,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2672.378978615262,
+    "final_hyperparameters": [
+      14368.285485952278,
+      17.34137700727559,
+      0.346622940249965,
+      0.0006445579083864672
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 2.1791666666666667,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 0.00010952713436506566,
+    "test_rmse": 29.486113013274405,
+    "test_crps mean": 9.940209063090668,
+    "test_crps std": 19.97670672917258,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2673.6088617013634,
+    "final_hyperparameters": [
+      17697.831857725687,
+      19.735071030293767,
+      8.015906525040007,
+      0.0006293602349813909
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 4.258333333333333,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 0.00038486890603612754,
+    "test_rmse": 29.225442143881917,
+    "test_crps mean": 9.944234469140895,
+    "test_crps std": 19.89503933957689,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2672.400317492484,
+    "final_hyperparameters": [
+      14659.17634891253,
+      17.31012756515521,
+      14.854947194707218,
+      0.002377300020456552
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 6.3374999999999995,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 4.837673160766865e-05,
+    "test_rmse": 29.209263978950062,
+    "test_crps mean": 9.945175299861583,
+    "test_crps std": 19.864701188632655,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2672.3677242727454,
+    "final_hyperparameters": [
+      14576.250963053259,
+      17.280782901658853,
+      22.009415051749723,
+      0.00030157922411433447
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 8.416666666666666,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 1.3431418949720733e-05,
+    "test_rmse": 29.177733053927444,
+    "test_crps mean": 9.940094664143993,
+    "test_crps std": 19.837366490726208,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2672.3623542468154,
+    "final_hyperparameters": [
+      14194.090338352078,
+      17.309172790947464,
+      28.942419946239042,
+      8.409466465852944e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 10.495833333333332,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 0.00028695226617091033,
+    "test_rmse": 30.353134607824956,
+    "test_crps mean": 10.794622994224639,
+    "test_crps std": 20.80308493428632,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2696.231024858442,
+    "final_hyperparameters": [
+      11890.70989877067,
+      52.516253771022846,
+      17.649952637522507,
+      0.0016220829667412673
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 12.575,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 7.958921625687218e-05,
+    "test_rmse": 30.345954006005616,
+    "test_crps mean": 10.784985764349342,
+    "test_crps std": 20.804174083385057,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2696.1960562662603,
+    "final_hyperparameters": [
+      12484.572181145253,
+      52.40807431079827,
+      21.619958493461322,
+      0.0004467915736938721
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 14.654166666666667,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 6.547631302867902e-05,
+    "test_rmse": 30.340291971186037,
+    "test_crps mean": 10.785248536684799,
+    "test_crps std": 20.776792491851804,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2696.215907195577,
+    "final_hyperparameters": [
+      12735.543710206519,
+      52.53231411217271,
+      25.18202076674404,
+      0.00036965294816848626
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 16.733333333333334,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 0.00010175886950903985,
+    "test_rmse": 30.349351961679215,
+    "test_crps mean": 10.79086108907001,
+    "test_crps std": 20.817179633562365,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2696.1985892428575,
+    "final_hyperparameters": [
+      12007.920330690802,
+      52.53764839645744,
+      28.29096740800059,
+      0.0005692235864840356
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 18.8125,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 3.733040915952854e-05,
+    "test_rmse": 30.35020244282774,
+    "test_crps mean": 10.791749953413916,
+    "test_crps std": 20.818884676588738,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2696.1967699727084,
+    "final_hyperparameters": [
+      11940.555035126803,
+      52.54548080098682,
+      31.738567640911178,
+      0.0002087307352045542
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 20.891666666666666,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 6.479502032751241e-05,
+    "test_rmse": 30.351349372463577,
+    "test_crps mean": 10.787565290076127,
+    "test_crps std": 20.782596707667363,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2696.232430629228,
+    "final_hyperparameters": [
+      12501.309372556687,
+      52.29036989954888,
+      35.938312694876416,
+      0.0003690269249903011
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 22.970833333333335,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 3.0088713742230158e-05,
+    "test_rmse": 30.349352596193793,
+    "test_crps mean": 10.795339688278796,
+    "test_crps std": 20.790600423484292,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2696.2153688106864,
+    "final_hyperparameters": [
+      11985.81398697279,
+      52.64074731921589,
+      38.521478939635465,
+      0.00016996956036674504
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 25.05,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 2.3193355117062495e-05,
+    "test_rmse": 30.364166372256413,
+    "test_crps mean": 10.817385111151706,
+    "test_crps std": 20.81902601408574,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2696.5887704748943,
+    "final_hyperparameters": [
+      10654.629608375602,
+      52.91283308812427,
+      39.991853153178525,
+      0.0001308505474160171
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 27.129166666666666,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 8.484267702102267e-06,
+    "test_rmse": 30.37686633441856,
+    "test_crps mean": 10.862285682750247,
+    "test_crps std": 20.79217286056236,
+    "test_picp": 0.948,
+    "final_log_likelihood": -2698.2356005642314,
+    "final_hyperparameters": [
+      9503.606035549543,
+      53.902569330712645,
+      39.934775996283875,
+      4.831169634211818e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 29.208333333333336,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 4.4829482548979454e-05,
+    "test_rmse": 30.40211890748902,
+    "test_crps mean": 10.912423003415299,
+    "test_crps std": 20.792639654707052,
+    "test_picp": 0.95,
+    "final_log_likelihood": -2700.8015010367158,
+    "final_hyperparameters": [
+      8357.854571280535,
+      54.53253139384161,
+      39.998687352664376,
+      0.0002586089714124995
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 31.2875,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 6.721276863368267e-05,
+    "test_rmse": 30.43168883050161,
+    "test_crps mean": 10.972226989952171,
+    "test_crps std": 20.75023085260493,
+    "test_picp": 0.958,
+    "final_log_likelihood": -2704.248002538372,
+    "final_hyperparameters": [
+      7631.397912854387,
+      55.23507752275518,
+      39.99495294488723,
+      0.0004003190246688604
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 33.36666666666667,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 6.060521382557936e-06,
+    "test_rmse": 30.458306210022297,
+    "test_crps mean": 11.020372746145771,
+    "test_crps std": 20.78904972021041,
+    "test_picp": 0.956,
+    "final_log_likelihood": -2708.1547389455864,
+    "final_hyperparameters": [
+      7156.618551342457,
+      56.4573483906338,
+      39.993783196272084,
+      3.562453255856468e-05
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 35.44583333333333,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 0.000208173522850312,
+    "test_rmse": 30.50923603288046,
+    "test_crps mean": 11.097601773356182,
+    "test_crps std": 20.742726762147335,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2712.8744517713435,
+    "final_hyperparameters": [
+      6363.536280465894,
+      56.49817634669047,
+      39.988027617853106,
+      0.001297223386633739
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 37.525,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 3.3133825002188394e-05,
+    "test_rmse": 30.578577610768622,
+    "test_crps mean": 11.17965461563046,
+    "test_crps std": 20.769377506484673,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2718.77136366228,
+    "final_hyperparameters": [
+      5577.404449183319,
+      56.49222122668254,
+      39.99932911775514,
+      0.00021350756426130602
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 39.604166666666664,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 4.6757682208165616e-05,
+    "test_rmse": 30.67440462627914,
+    "test_crps mean": 11.284018490609553,
+    "test_crps std": 20.75676887601567,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2725.8689148459302,
+    "final_hyperparameters": [
+      5069.577181681583,
+      56.48741721732631,
+      39.99894558942883,
+      0.00032013676052766726
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 41.68333333333333,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 0.00015882264955436996,
+    "test_rmse": 30.802281914876815,
+    "test_crps mean": 11.397786618168393,
+    "test_crps std": 20.80698176378838,
+    "test_picp": 0.964,
+    "final_log_likelihood": -2733.967233533967,
+    "final_hyperparameters": [
+      4593.7647163888905,
+      56.49597619786883,
+      39.994652413758,
+      0.00113983388089256
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 43.7625,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 6.023151479473934e-05,
+    "test_rmse": 30.967249927925486,
+    "test_crps mean": 11.527003006216841,
+    "test_crps std": 20.88798491003218,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2742.9443754614313,
+    "final_hyperparameters": [
+      4204.556340917654,
+      56.49708449520446,
+      39.99982965801086,
+      0.0004530984931756521
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 45.84166666666667,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 5.904415327499809e-05,
+    "test_rmse": 31.173006597615966,
+    "test_crps mean": 11.681344516709437,
+    "test_crps std": 20.956210470352435,
+    "test_picp": 0.962,
+    "final_log_likelihood": -2752.7168572800047,
+    "final_hyperparameters": [
+      3952.6124294337933,
+      56.497780341051936,
+      39.99719770140375,
+      0.0004748856683489677
+    ],
+    "n_training_points": 600
+  },
+  {
+    "training_size": 600,
+    "amplitude": 47.920833333333334,
+    "trial": 12,
+    "seed": 67222,
+    "train_rmse": 7.966739549964425e-05,
+    "test_rmse": 31.419926119097166,
+    "test_crps mean": 11.851793220391967,
+    "test_crps std": 21.064165309790784,
+    "test_picp": 0.96,
+    "final_log_likelihood": -2763.1554034625856,
+    "final_hyperparameters": [
+      3736.223446690885,
+      56.49707717961479,
+      39.99712328821843,
+      0.0006838481493058879
+    ],
+    "n_training_points": 600
+  }
+]

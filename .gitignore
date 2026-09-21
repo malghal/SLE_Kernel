@@ -1,37 +1,8 @@
-# Data files
-*.csv
-*.pkl
-*.h5
-*.hdf5
-Data/
-Plots/
-campaigns/
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
 .venv/
-*.egg-info/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Large output files
-*.log
-*.out
-*.json
-# Checkpoint files (large temporary files)
-*.npz
-dragon_geodesic_matrix_*
-
-# Jupyter checkpoint files
-.ipynb_checkpoints/
-
-# Python cache
 __pycache__/
 *.pyc
-*.pyo
-
-# Large data files
-*.npy
+.DS_Store
+*.log
+Dragon/dragon_complete_dataset_from_firedrake.npz
+saxs/Data/images/*
+Teddy Bear/Data/teddy_exact_geodesic_distances_graph.npy
